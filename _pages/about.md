@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 [Curriculum Vitae](/files/cv.pdf)
 
-======
+
 I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance. My research interests are macroeconomics, asset pricing, and economic theory.
 
 
