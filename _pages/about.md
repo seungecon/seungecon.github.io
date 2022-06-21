@@ -10,7 +10,6 @@
 
 [Curriculum Vitae](/files/cv.pdf)
 
-%A data-driven personal website
 ======
 I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance. My research interests are macroeconomics, asset pricing, and economic theory.
 
