@@ -16,6 +16,7 @@ redirect_from:
 I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance. 
 
 Research
+
 -----
 *macroeconomics asset pricing, and economic theory.
 
