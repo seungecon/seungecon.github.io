@@ -11,7 +11,11 @@ redirect_from:
 [Curriculum Vitae](/files/cv.pdf)
 
 
-I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance. My research interests are macroeconomics, asset pricing, and economic theory.
+
+
+I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance. 
+
+Research interests: macroeconomics, asset pricing, and economic theory.
 
 
 Getting started
