@@ -13,12 +13,14 @@ redirect_from:
 
 
 
-I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance. 
+I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance.
+
+
 
 
 
 Research Interests:
------
+#-----
 * macroeconomics (monetary economics)
 * asset pricing
 * economic theory (contract, mathematical economics)
