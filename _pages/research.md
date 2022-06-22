@@ -12,7 +12,7 @@ permalink: /research/
   Slides: [Term-structure.theory.slides.pdf](/home/files/0Seung_JMP2_slides.pdf)  
 
 
-**Monetary Policy as a Financial Stabilizer (JMP) (joint with Marc Dordal i Carreras)** 
+**Monetary Policy as a Financial Stabilizer (Job Market Paper) (joint with Marc Dordal i Carreras)** 
 
   *Working paper, 2022*  
   Manuscript: [Stabilizer.pdf](/home/files/0Seung_JMP1.pdf)  
