@@ -3,7 +3,7 @@ title: ""
 permalink: /research/
 ---
 
-## Working papers
+## Working Papers
 
 **paper 1**  
   (joint with A)  
