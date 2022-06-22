@@ -21,8 +21,8 @@ I am joining Oxford University (Saïd Business School) as tenure-track associate
 
 Research Interests:
 
-* macroeconomics (monetary economics)
-* asset pricing
+* macroeconomics (monetary economics, financial stability)
+* asset pricing (the term-structure of interest rates, recovery)
 * economic theory (contract, mathematical economics)
 
 
