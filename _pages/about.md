@@ -27,9 +27,9 @@ Education:
 
 Current Research Interests:
 
-* macroeconomics (monetary economics, financial stability)
-* asset pricing (the term-structure of interest rates, recovery theorem)
-* economic theory (contract theory, mathematical economics)
+* Macroeconomics (monetary economics, financial stability)
+* Asset pricing (the term-structure of interest rates, recovery theorem)
+* Economic theory (contract theory, mathematical economics)
 
 
 -----
