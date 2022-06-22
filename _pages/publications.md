@@ -1,16 +1,11 @@
 ---
-layout: archive
-title: ""
-permalink: /publications/
-author_profile: true
+title: 
+permalink: /research/
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Working papers
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**paper 1**  
+  (joint with A)  
+  *Working paper, 2022*  
+  Manuscript: [theory_of_PAPs.pdf](/home/files/paper1.pdf)  
