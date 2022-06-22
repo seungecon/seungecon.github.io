@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance this fall. I received my PhD in Economics from UC Berkeley.
+I am joining Oxford University (Saïd Business School) as tenure-track associate professor of finance this fall. I graduated with a Ph.D. in Economics from UC Berkeley in 2022.
 
 
 
