@@ -37,10 +37,13 @@ permalink: /research/
 ## Work in Progress
 
 **A Unified Theory of the Term-Structure and Monetary Stabilization: Part II. Empirics (joint with Marc Dordal i Carreras)**  
+
   *In progress, 2022*  
 
 **Justifying the First-Order Approach in the Agency Problem without Concavity (joint with Jin Yong Jung and Son Ku Kim)**  
+
   *In progress, 2022*  
 
 **Modeling Misspecified Macroeconomic Narratives (joint with Yuriy Gorodnichenko and Chen Lian)**  
+
   *In progress, 2022*  
