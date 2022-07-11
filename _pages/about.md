@@ -19,7 +19,7 @@ I am joining Oxford University (Saïd Business School) as tenure-track associate
 
 Education:
 
-* I graduated with a Ph.D. in Economics from U.C. Berkeley in 2022. Before then, I attended Seoul National University and Korea Science Academy.
+* I graduated with a Ph.D. in Economics from U.C. Berkeley in 2022. I grew up in Korea where I attended Seoul National University and Korea Science Academy.
 
 
 
