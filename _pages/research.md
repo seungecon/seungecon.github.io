@@ -13,7 +13,7 @@ permalink: /research/
 
 
 **Monetary Policy as a Financial Stabilizer (Job Market Paper) (joint with Marc Dordal i Carreras)** 
-  *This paper will be split into two papers very soon
+  *This paper will be split into two papers very soon*
   *Working paper, 2022*  
   Manuscript: [Stabilizer.pdf](/files/0Seung_JMP1.pdf)  
   Discrete-time version: [Stabilizer.discrete.pdf](/files/0Discrete_Seung_JMP1.pdf)  
