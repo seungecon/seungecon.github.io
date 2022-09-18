@@ -42,4 +42,4 @@ Current Teaching (2022-2023):
 
 Contact Information:
 
-* Seung.Lee@said.ox.ac.uk or seungjoo@berkeley.edu
+* Seung.Lee@sbs.ox.ac.uk or seungjoo@berkeley.edu
