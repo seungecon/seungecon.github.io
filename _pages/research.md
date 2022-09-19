@@ -25,6 +25,7 @@ permalink: /research/
 **Managerial Incentives, Financial Innovation, and Risk-Management Policy (joint with Son Ku Kim and Sheridan Titman)** 
 
   **News**: slides are just updated!
+  
   **News**: The revised paper is just posted!
   
   *Working paper, 2022*  
