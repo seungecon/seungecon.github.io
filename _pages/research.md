@@ -24,10 +24,11 @@ permalink: /research/
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policy (joint with Son Ku Kim and Sheridan Titman)** 
 
-  **News**: slides are just updated! (revised draft coming soon!)
+  **News**: slides are just updated!
+  **News**: The revised paper is just posted!
   
   *Working paper, 2022*  
-  Manuscript: [Dual.agency.pdf](/files/0klt2021.pdf)  
+  Manuscript: [Dual.agency.pdf](/files/PAPER_Dual_agency_and_risk_management.pdf)  
   Slides: [Dual.agency.slides.pdf](/files/Dual_agency_and_risk_management.pdf)    
  
  
