@@ -35,6 +35,8 @@ permalink: /research/
  
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (joint with Jin Yong Jung and Son Ku Kim)** 
 
+  **News**: A revised version coming soon! (with slides)
+
   *Working paper, 2022*  
   Manuscript: [ex.ante.pdf](/files/exante2020.pdf)  
   
