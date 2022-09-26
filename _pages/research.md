@@ -44,6 +44,10 @@ permalink: /research/
 
 ## Work in Progress
 
+**The Upper Bound: Limitations of the Modern Central Banking (joint with Marc Dordal i Carreras)**  
+
+  *In progress, 2022*  
+
 **A Unified Theory of the Term-Structure and Monetary Stabilization: Part II. Empirics (joint with Marc Dordal i Carreras)**  
 
   *In progress, 2022*  
