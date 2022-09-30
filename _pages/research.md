@@ -26,7 +26,7 @@ permalink: /research/
 
   **News**: slides are just updated!
   
-  **News**: The revised paper is just posted!
+  **News**: The revised version posted!
   
   *Working paper, 2022*  
   Manuscript: [Dual.agency.pdf](/files/PAPER_Dual_agency_and_risk_management.pdf)  
@@ -35,11 +35,14 @@ permalink: /research/
  
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (joint with Jin Yong Jung and Son Ku Kim)** 
 
-  **News**: A revised version coming soon! (with slides)
-
-  *Working paper, 2022*  
-  Manuscript: [ex.ante.pdf](/files/exante2020.pdf)  
+  **News**: slides are just updated!
   
+  **News**: The revised version posted!
+  
+  *Working paper, 2022*  
+  Manuscript: [ex.ante.pdf](/files/Ex_Post_vs_Ex_Ante.pdf)  
+  Slides: [ex.ante.slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)    
+
   
 
 ## Work in Progress
