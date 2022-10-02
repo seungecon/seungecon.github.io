@@ -47,6 +47,10 @@ permalink: /research/
 
 ## Work in Progress
 
+**Justifying the First-Order Approach in the Agency Problem without Concavity (joint with Jin Yong Jung and Son Ku Kim)**  
+
+  **News**: draft coming very soon!
+
 **The Upper Bound: Limitations of the Modern Central Banking (joint with Marc Dordal i Carreras)**  
 
   *In progress, 2022*  
@@ -54,10 +58,6 @@ permalink: /research/
 **A Unified Theory of the Term-Structure and Monetary Stabilization: Part II. Empirics (joint with Marc Dordal i Carreras)**  
 
   *In progress, 2022*  
-
-**Justifying the First-Order Approach in the Agency Problem without Concavity (joint with Jin Yong Jung and Son Ku Kim)**  
-
-  **News**: coming soon!
 
 **Modeling Misspecified Macroeconomic Narratives (joint with Yuriy Gorodnichenko and Chen Lian)**  
 
