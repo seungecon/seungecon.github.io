@@ -43,13 +43,16 @@ permalink: /research/
   Manuscript: [ex.ante.pdf](/files/Ex_Post_vs_Ex_Ante.pdf)  
   Slides: [ex.ante.slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)    
 
-  
+
+**Justifying the First-Order Approach in Agency Frameworks with the Agent’s Possibly Non-Concave Value Function (joint with Jin Yong Jung and Son Ku Kim)** 
+
+  *Working paper, 2022*  
+  Manuscript: [First-order approach.pdf](/files/First_order_approach_draft.pdf)  
+  Slides: [First-order approach.slides.pdf](/files/First_order_approach_slides.pdf)  
+
 
 ## Work in Progress
 
-**Justifying the First-Order Approach in the Agency Problem without Concavity (joint with Jin Yong Jung and Son Ku Kim)**  
-
-  **News**: draft coming very soon!
 
 **The Upper Bound: Limitations of the Modern Central Banking (joint with Marc Dordal i Carreras)**  
 
@@ -57,7 +60,7 @@ permalink: /research/
 
 **A Unified Theory of the Term-Structure and Monetary Stabilization: Part II. Empirics (joint with Marc Dordal i Carreras)**  
 
-  *In progress, 2022*  
+  *In progress, 2022* 
 
 **Modeling Misspecified Macroeconomic Narratives (joint with Yuriy Gorodnichenko and Chen Lian)**  
 
