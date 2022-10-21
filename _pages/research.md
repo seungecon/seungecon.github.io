@@ -16,7 +16,6 @@ permalink: /research/
   
   *Working paper, 2022*  
   Manuscript: [Sunspot_risk_premium.pdf](/files/Sunspot_risk_premium.pdf)  
-  Slides: [Sunspot_risk_premium.slides.pdf](/files/0Seung_JMP1_Slides.pdf)    
 
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policy (joint with Son Ku Kim and Sheridan Titman)** 
