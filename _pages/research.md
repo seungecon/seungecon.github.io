@@ -12,14 +12,11 @@ permalink: /research/
   Slides: [Term-structure.theory.slides.pdf](/files/0Seung_JMP2_slides.pdf)  
 
 
-**Monetary Policy as a Financial Stabilizer (Job Market Paper) (joint with Marc Dordal i Carreras)** 
-
-  **News**: This paper will be split into two separate papers very soon
+**Active Taylor Rules Still Breed Sunspots: Sunspot Volatility, Risk-Premium, and the Business Cycle (Job Market Paper) (joint with Marc Dordal i Carreras)** 
   
   *Working paper, 2022*  
-  Manuscript: [Stabilizer.pdf](/files/0Seung_JMP1.pdf)  
-  Discrete-time version: [Stabilizer.discrete.pdf](/files/0Discrete_Seung_JMP1.pdf)  
-  Slides: [Stabilizer.slides.pdf](/files/0Seung_JMP1_Slides.pdf)    
+  Manuscript: [Sunspot_risk_premium.pdf](/files/Sunspot_risk_premium.pdf)  
+  Slides: [Sunspot_risk_premium.slides.pdf](/files/0Seung_JMP1_Slides.pdf)    
 
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policy (joint with Son Ku Kim and Sheridan Titman)** 
@@ -53,6 +50,10 @@ permalink: /research/
 
 ## Work in Progress
 
+
+**A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
+
+  *In progress, 2022*  
 
 **The Upper Bound: Limitations of the Modern Central Banking (joint with Marc Dordal i Carreras)**  
 
