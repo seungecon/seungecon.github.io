@@ -42,6 +42,8 @@ permalink: /research/
 
 **Justifying the First-Order Approach in Agency Frameworks with the Agent’s Possibly Non-Concave Value Function (joint with Jin Yong Jung and Son Ku Kim)** 
 
+  **News**: Updated!
+
   *Working paper, 2022*  
   Manuscript: [First-order approach.pdf](/files/First_order_approach_draft.pdf)  
   Slides: [First-order approach.slides.pdf](/files/First_order_approach_slides.pdf)  
