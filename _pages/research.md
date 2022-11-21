@@ -7,7 +7,8 @@ permalink: /research/
 
 **A Unified Theory of the Term-Structure and Monetary Stabilization: Part I. Theory (joint with Marc Dordal i Carreras)** 
 
-  *Working paper, 2022*  (Comments welcome!)
+  *Working paper, 2022* 
+  (Comments welcome!)
   Manuscript: [Term-structure.theory.pdf](/files/Term_Structure.pdf)  
   Slides: [Term-structure.theory.slides.pdf](/files/0Seung_JMP2_slides.pdf)  
 
