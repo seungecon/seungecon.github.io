@@ -64,6 +64,10 @@ permalink: /research/
 **A Unified Theory of the Term-Structure and Monetary Stabilization: Part II. Empirics (joint with Marc Dordal i Carreras)**  
 
   *In progress, 2022* 
+  
+**Optimal Contracts in the Presence of Risk-Prudence (joint with Jin Yong Jung)**  
+
+  *In progress, 2022*  
 
 **Modeling Misspecified Macroeconomic Narratives (joint with Yuriy Gorodnichenko and Chen Lian)**  
 
