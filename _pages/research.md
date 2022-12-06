@@ -55,7 +55,7 @@ permalink: /research/
 
 **A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
 
-  *In progress, 2022* Draft coming soon!
+  *In progress, 2022* draft coming soon!
 
 **The Upper Bound: Limitations of the Modern Central Banking (joint with Marc Dordal i Carreras)**  
 
