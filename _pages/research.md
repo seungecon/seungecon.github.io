@@ -72,3 +72,12 @@ permalink: /research/
 **Modeling Misspecified Macroeconomic Narratives (joint with Yuriy Gorodnichenko and Chen Lian)**  
 
   *In progress, 2022*  
+
+
+## Resting Work
+
+
+**The Spatial Transmission of US Banking Panics (joint with Marc Dordal i Carreras)**  
+
+  Preliminary Slides: [US Panics.slides.pdf](/files/US_Panics_paper.pdf)  
+
