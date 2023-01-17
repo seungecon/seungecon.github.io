@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 ---
 
-## Working Papers
+## Working Papers (Macroeconomics and Finance)
 
 **A Unified Theory of the Term-Structure and Monetary Stabilization: Part I. Theory (joint with Marc Dordal i Carreras)** 
 
@@ -17,6 +17,16 @@ permalink: /research/
   
   *Working paper, 2022*  
   Manuscript: [Sunspot_risk_premium.pdf](/files/Sunspot_risk_premium.pdf)  
+
+
+**Growth, Heterogeneous Beliefs, and Risk Amplification : Two-Way Interactions (joint with Theofanis Papamichalis)** 
+  
+  *Working paper, 2023*  
+  Manuscript: [Belief.pdf](/files/LEE-PAPAMICHALIS_2022.pdf)  
+
+
+
+## Working Papers (Contract and Corporate Finance)
 
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policy (joint with Son Ku Kim and Sheridan Titman)** 
@@ -50,6 +60,10 @@ permalink: /research/
 
 ## Work in Progress
 
+
+**Growth with Short-Term Debt (joint with Artur Doshchyn)**  
+
+  *In progress, 2023*
 
 **A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
 
