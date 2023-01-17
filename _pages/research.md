@@ -19,7 +19,7 @@ permalink: /research/
   Manuscript: [Sunspot_risk_premium.pdf](/files/Sunspot_risk_premium.pdf)  
 
 
-**Growth, Heterogeneous Beliefs, and Risk Amplification : Two-Way Interactions (joint with Theofanis Papamichalis)** 
+**Growth, Heterogeneous Beliefs, and Risk Amplification: Two-Way Interactions (joint with Theofanis Papamichalis)** 
   
   *Working paper, 2023*  
   Manuscript: [Belief.pdf](/files/LEE-PAPAMICHALIS_2022.pdf)  
