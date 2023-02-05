@@ -9,7 +9,7 @@ permalink: /research/
 
   *Working paper, 2022* 
   (Comments welcome!)\
-  Manuscript: [Term-structure.theory.pdf](/files/Term_Structure.pdf)  
+  Manuscript: [Term-structure.theory.pdf](/files/Term_Structure.pdf) 
   Slides: [Term-structure.theory.slides.pdf](/files/0Seung_JMP2_slides.pdf)  
 
 
