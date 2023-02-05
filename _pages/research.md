@@ -22,7 +22,10 @@ permalink: /research/
 **Growth, Heterogeneous Beliefs, and Risk Amplification (joint with Theofanis Papamichalis)** 
   
   *Working paper, 2023*  
-  Manuscript: [Belief.pdf](/files/LEE-PAPAMICHALIS_2022.pdf)  
+    (Comments welcome!)\
+  Manuscript: [Belief.pdf](/files/LEE-PAPAMICHALIS_2022.pdf) 
+  Slides: [Belief.slides.pdf](/files/Slides_LEE-PAPAMICHALIS_2022.pdf)  
+
 
 
 
