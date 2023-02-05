@@ -24,7 +24,6 @@ permalink: /research/
   *Working paper, 2023*  
     (Comments welcome!)\
   Manuscript: [Belief.pdf](/files/LEE-PAPAMICHALIS_2022.pdf) 
-  
   Slides: [Belief.slides.pdf](/files/Slides_LEE-PAPAMICHALIS_2022.pdf)  
 
 
