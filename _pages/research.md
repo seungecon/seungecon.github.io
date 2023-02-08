@@ -23,7 +23,8 @@ permalink: /research/
   
   *Working paper, 2023*  
     (Comments welcome!)\
-  Manuscript: [Belief.pdf](/files/LEE-PAPAMICHALIS_2022.pdf)[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)
+  Manuscript: [Belief.pdf](/files/LEE-PAPAMICHALIS_2022.pdf)    
+  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)
   Slides: [Belief.slides.pdf](/files/Slides_LEE-PAPAMICHALIS_2022.pdf)  
 
 
