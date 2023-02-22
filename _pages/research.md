@@ -65,15 +65,15 @@ permalink: /research/
 ## Work in Progress
 
 
-**Growth with Short-Term Debt (joint with Artur Doshchyn)**  
+**Risky Growth with Short-Term Debt (joint with Artur Doshchyn)**  
 
-  *In progress, 2023*
+  *In progress, 2023* Slides available on request
 
 **A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
 
   *In progress, 2022* draft coming soon!
 
-**The Upper Bound: Limitations of the Modern Central Banking (joint with Marc Dordal i Carreras)**  
+**The Saturated Lower Bound (SLB) (joint with Marc Dordal i Carreras and Zhenghua Qi)**  
 
   *In progress, 2022*  
 
@@ -83,7 +83,7 @@ permalink: /research/
   
 **Optimal Contracts in the Presence of Risk-Prudence (joint with Jin Yong Jung)**  
 
-  *In progress, 2022*  
+  *In progress, 2022*  Slides available on request
 
 **Modeling Misspecified Macroeconomic Narratives (joint with Yuriy Gorodnichenko and Chen Lian)**  
 
