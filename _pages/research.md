@@ -76,6 +76,10 @@ permalink: /research/
 **The Saturated Lower Bound (SLB) (joint with Marc Dordal i Carreras and Zhenghua Qi)**  
 
   *In progress, 2022*  
+  
+**The Spatial Transmission of US Banking Panics (joint with Marc Dordal i Carreras)**  
+
+  Preliminary Slides: [US Panics.slides.pdf](/files/US_Panics_paper.pdf)  
 
 **Empirical Estimation of Bond Markets Market Segmentation (joint with Marc Dordal i Carreras and Anna Carruthers)**  
 
@@ -89,11 +93,4 @@ permalink: /research/
 
   *In progress, 2022*  
 
-
-## Resting Work
-
-
-**The Spatial Transmission of US Banking Panics (joint with Marc Dordal i Carreras)**  
-
-  Preliminary Slides: [US Panics.slides.pdf](/files/US_Panics_paper.pdf)  
 
