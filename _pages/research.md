@@ -67,7 +67,7 @@ permalink: /research/
 
 **Risky Growth with Short-Term Debt (joint with Artur Doshchyn)**  
 
-  *In progress, 2023* Slides available on request
+  *In progress, 2023* Preliminary slides available on request
 
 **A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
 
@@ -77,7 +77,7 @@ permalink: /research/
 
   *In progress, 2022*  
 
-**A Unified Theory of the Term-Structure and Monetary Stabilization: Part II. Empirics (joint with Marc Dordal i Carreras)**  
+**Empirical Estimation of Bond Markets Market Segmentation (joint with Marc Dordal i Carreras and Anna Carruthers)**  
 
   *In progress, 2022* 
   
