@@ -81,7 +81,7 @@ permalink: /research/
 
   Preliminary Slides: [US Panics.slides.pdf](/files/US_Panics_paper.pdf)  
 
-**Empirical Estimation of Bond Markets Market Segmentation (joint with Marc Dordal i Carreras and Anna Carruthers)**  
+**Empirical Estimation of Bond Market Segmentation (joint with Marc Dordal i Carreras and Anna Carruthers)**  
 
   *In progress, 2022* 
   
