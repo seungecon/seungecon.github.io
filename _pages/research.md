@@ -75,7 +75,7 @@ permalink: /research/
 
 **The Saturated Lower Bound (SLB) (joint with Marc Dordal i Carreras and Zhenghua Qi)**  
 
-  *In progress, 2022*  
+  *In progress, 2023* draft coming soon!
   
 **The Spatial Transmission of US Banking Panics (joint with Marc Dordal i Carreras)**  
 
@@ -83,7 +83,7 @@ permalink: /research/
 
 **Empirical Estimation of Bond Market Segmentation (joint with Marc Dordal i Carreras and Anna Carruthers)**  
 
-  *In progress, 2022* 
+  *In progress, 2023* 
   
 **Optimal Contracts in the Presence of Risk-Prudence (joint with Jin Yong Jung)**  
 
