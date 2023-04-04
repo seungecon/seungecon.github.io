@@ -13,15 +13,13 @@ redirect_from:
 
 
 
-I am a tenure-track associate professor of finance at Saïd Business School, Oxford University.
+I am a tenure-track associate professor of finance at Saïd Business School, Oxford University. During spring - summer 2023, I am visiting Princeton University's Economics Department and the Bendheim Center for Finance, hosted by Prof. Markus Brunnermeier.   
 
 -----
 
 Education:
 
-* I graduated with a Ph.D. in Economics from U.C. Berkeley in 2022. I grew up in Korea where I attended Seoul National University and Korea Science Academy.   
-
-* I am visiting Princeton University's Economics Department and the Bendheim Center for Finance during Spring - Summer 2023, hosted by Prof. Markus Brunnermeier.   
+* I graduated with a Ph.D. in Economics from U.C. Berkeley in 2022. I grew up in Korea where I attended Seoul National University and Korea Science Academy.
 
 
 -----
