@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-I am a tenure-track associate professor of finance at Saïd Business School, Oxford University. During spring - summer 2023, I am visiting Princeton University's Economics Department and the Bendheim Center for Finance, hosted by Prof. Markus Brunnermeier.   
+I am a tenure-track associate professor of finance at Saïd Business School, Oxford University. During Spring - Summer 2023, I am visiting Princeton University's Economics Department and the Bendheim Center for Finance.   
 
 -----
 
