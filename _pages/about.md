@@ -42,4 +42,4 @@ Current Teaching (2022-2023):
 
 Contact Information:
 
-* Seung.Lee@sbs.ox.ac.uk or seungjoo@berkeley.edu or sl0324@princeton.edu
+* seung.lee@sbs.ox.ac.uk or seungjoo@berkeley.edu or sl0324@princeton.edu
