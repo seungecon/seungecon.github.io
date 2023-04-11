@@ -19,14 +19,14 @@ I am a tenure-track associate professor of finance at Saïd Business School, Oxf
 
 Education:
 
-* I graduated with a Ph.D. in Economics from U.C. Berkeley in 2022. I grew up in Korea where I attended Seoul National University and Korea Science Academy.
+* I graduated with a Ph.D. in Economics from U.C. Berkeley in 2022
 
 
 -----
 
 Current Research Interests:
 
-* Macroeconomics (monetary economics, quantitative easing and tightening, financial stability)
+* Macroeconomics (monetary economics, macro-finance, growth with finance)
 * Asset pricing (the term-structure of interest rates)
 * Economic theory (contract theory, mathematical economics)
 
@@ -42,4 +42,4 @@ Current Teaching (2022-2023):
 
 Contact Information:
 
-* Seung.Lee@sbs.ox.ac.uk or seungjoo@berkeley.edu
+* Seung.Lee@sbs.ox.ac.uk or seungjoo@berkeley.edu or sl0324@princeton.edu
