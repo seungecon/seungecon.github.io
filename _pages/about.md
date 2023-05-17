@@ -36,7 +36,7 @@ Current Research Interests:
 Current Teaching (2022-2023):
 
 * Firms and Markets (MBA, Hilary Term)
-
+* Empirial Finance - Advanced Asset Pricing and Macro-Finance (PhD, Trinity Term)
 
 -----
 
