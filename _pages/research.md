@@ -19,11 +19,11 @@ permalink: /research/
   Manuscript: [Sunspot_risk_premium.pdf](/files/Sunspot_risk_premium.pdf)  
 
 
-**Growth, Heterogeneous Beliefs, and Risk Amplification (joint with Theofanis Papamichalis)** 
+**Heterogeneous Beliefs, Risk Amplification, and Asset Returns (joint with Goutham Gopalakrishna and Theofanis Papamichalis)** 
   
   *Working paper, 2023*  
     (Comments welcome!)\
-  Manuscript: [Belief.pdf](/files/LEE-PAPAMICHALIS_2022.pdf)    
+  Manuscript: [Belief.pdf](/files/Beliefs_v1_Seung.pdf)    
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)     
   Slides: [Belief.slides.pdf](/files/Slides_LEE-PAPAMICHALIS_2022.pdf)  
 
