@@ -35,18 +35,14 @@ permalink: /research/
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policy (joint with Son Ku Kim and Sheridan Titman)** 
 
-  **News**: In major reconstruction
+  **News**: Updated!
   
-  *Working paper, 2022*  
-  Manuscript: [Dual.agency.pdf](/files/PAPER_Dual_agency_and_risk_management.pdf)  
+  *Working paper, 2023*  
+  Manuscript: [Dual.agency.pdf](/files/klt_revised_v1.pdf)  
   Slides: [Dual.agency.slides.pdf](/files/Dual_agency_and_risk_management.pdf)    
  
  
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (joint with Jin Yong Jung and Son Ku Kim)** 
-
-  **News**: slides are just updated!
-  
-  **News**: The revised version posted!
   
   *Working paper, 2022*  
   Manuscript: [ex.ante.pdf](/files/Ex_Post_vs_Ex_Ante.pdf)  
