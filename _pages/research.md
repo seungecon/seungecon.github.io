@@ -33,7 +33,7 @@ permalink: /research/
 ## Working Papers (Contract and Corporate Finance)
 
 
-**Managerial Incentives, Financial Innovation, and Risk-Management Policy (joint with Son Ku Kim and Sheridan Titman)** 
+**Managerial Incentives, Financial Innovation, and Risk-Management Policies (joint with Son Ku Kim and Sheridan Titman)** 
 
   **News**: Updated!
   
