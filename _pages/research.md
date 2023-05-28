@@ -16,8 +16,8 @@ permalink: /research/
 **Active Taylor Rules Still Breed Sunspots: Sunspot Volatility, Risk-Premium, and the Business Cycle (Job Market Paper) (joint with Marc Dordal i Carreras)** 
   
   *Working paper, 2023*  
-  Manuscript: [Sunspot_risk_premium.pdf](/files/Sunspot_main.pdf)  
-  Online Appendix: [Sunspot_risk_premium.pdf](/files/Sunspot_appendix.pdf)  
+  Manuscript: [Sunspot_main.pdf](/files/Sunspot_main.pdf)  
+  Online Appendix: [Sunspot_appendix.pdf](/files/Sunspot_appendix.pdf)  
   Slides: [Sunspot_slides.pdf](/files/Sunspot_slides.pdf)  
 
 
