@@ -15,8 +15,16 @@ permalink: /research/
 
 **Active Taylor Rules Still Breed Sunspots: Sunspot Volatility, Risk-Premium, and the Business Cycle (Job Market Paper) (joint with Marc Dordal i Carreras)** 
   
-  *Working paper, 2022*  
-  Manuscript: [Sunspot_risk_premium.pdf](/files/Sunspot_risk_premium.pdf)  
+  *Working paper, 2023*  
+  Manuscript: [Sunspot_risk_premium.pdf](/files/Sunspot_main.pdf)  
+  Online Appendix: [Sunspot_risk_premium.pdf](/files/Sunspot_appendix.pdf)  
+  Slides: [Sunspot_slides.pdf](/files/Sunspot_slides.pdf)  
+
+
+**A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
+
+  *In progress, 2023*
+  Slides: [Higher-order-forward-guidance.pdf](/files/higherFG_slides.pdf)  
 
 
 **Heterogeneous Beliefs, Risk Amplification, and Asset Returns (joint with Goutham Gopalakrishna and Theofanis Papamichalis)** 
@@ -25,7 +33,7 @@ permalink: /research/
     (Comments welcome!)\
   Manuscript: [Belief.pdf](/files/Beliefs_v1_Seung.pdf)    
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)     
-  Slides: [Belief.slides.pdf](/files/Slides_LEE-PAPAMICHALIS_2022.pdf)  
+  Slides: [Belief_slides.pdf](/files/Beliefs_slides.pdf)  
 
 
 
@@ -64,10 +72,6 @@ permalink: /research/
 **Risky Growth with Short-Term Debt (joint with Artur Doshchyn)**  
 
   *In progress, 2023* Preliminary slides available on request
-
-**A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
-
-  *In progress, 2022* draft coming soon!
 
 **The Saturated Lower Bound (SLB) (joint with Marc Dordal i Carreras and Zhenghua Qi)**  
 
