@@ -23,7 +23,7 @@ permalink: /research/
 
 **A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
 
-  *In progress, 2023*
+  *In progress, 2023*\
   Slides: [Higher-order-forward-guidance.pdf](/files/higherFG_slides.pdf)  
 
 
@@ -33,7 +33,7 @@ permalink: /research/
     (Comments welcome!)\
   Manuscript: [Belief.pdf](/files/Beliefs_v1_Seung.pdf)    
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)     
-  Slides: [Belief_slides.pdf](/files/Beliefs_slides.pdf)  
+  Slides: [Beliefs_slides.pdf](/files/Beliefs_slides.pdf)  
 
 
 
