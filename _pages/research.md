@@ -66,6 +66,7 @@ permalink: /research/
   Slides: [First-order approach.slides.pdf](/files/First_order_approach_slides.pdf)  
 
 
+
 ## Work in Progress
 
 
@@ -77,10 +78,6 @@ permalink: /research/
 
   *In progress, 2023* draft coming soon!
   
-**The Spatial Transmission of US Banking Panics (joint with Marc Dordal i Carreras)**  
-
-  Preliminary Slides: [US Panics.slides.pdf](/files/US_Panics_paper.pdf)  
-
 **Empirical Estimation of Bond Market Segmentation (joint with Marc Dordal i Carreras and Anna Carruthers)**  
 
   *In progress, 2023* 
@@ -93,4 +90,11 @@ permalink: /research/
 
   *In progress, 2022*  
 
+
+
+## Resting Work
+
+**The Spatial Transmission of US Banking Panics (joint with Marc Dordal i Carreras)**  
+
+  Preliminary Slides: [US Panics.slides.pdf](/files/US_Panics_paper.pdf)
 
