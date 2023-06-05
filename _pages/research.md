@@ -15,8 +15,7 @@ permalink: /research/
 
 **Active Taylor Rules Still Breed Sunspots: Sunspot Volatility, Risk-Premium, and the Business Cycle (Job Market Paper) (joint with Marc Dordal i Carreras)** 
   
-  *Working paper, 2023*  
-      (Submitted)\
+  *Working paper, 2023 (Submitted)*  
   Manuscript: [Sunspot_main.pdf](/files/Sunspot_main.pdf)  
   Online Appendix: [Sunspot_appendix.pdf](/files/Sunspot_online_appendix.pdf)  
   Slides: [Sunspot_slides.pdf](/files/Sunspot_slides.pdf)  
@@ -30,8 +29,7 @@ permalink: /research/
 
 **Heterogeneous Beliefs, Risk Amplification, and Asset Returns (joint with Goutham Gopalakrishna and Theofanis Papamichalis)** 
   
-  *Working paper, 2023*  
-    (Submitted)\
+  *Working paper, 2023 (Submitted)*  
   Manuscript: [Belief.pdf](/files/Beliefs.pdf)    
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)     
   Slides: [Beliefs_slides.pdf](/files/Beliefs_slides.pdf)  
