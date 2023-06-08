@@ -17,8 +17,8 @@ permalink: /research/
   
   *Working paper, 2023 (Submitted)*  
   Manuscript: [Sunspot_main.pdf](/files/Sunspot_main.pdf)  
-  Online Appendix: [Sunspot_appendix.pdf](/files/Sunspot_online_appendix.pdf)
-  Combined: [Sunspot.pdf](/files/Sunspot_main+onlineappendix.pdf) 
+  Online Appendix: [Sunspot_appendix.pdf](/files/Sunspot_online_appendix.pdf)  
+  Combined: [Sunspot.pdf](/files/Sunspot_main+onlineappendix.pdf)  
   Slides: [Sunspot_slides.pdf](/files/Sunspot_slides.pdf)  
 
 
