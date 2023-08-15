@@ -76,7 +76,7 @@ Working paper, 2023*
 
 ## Work in Progress
 
-**A New Indeterminacy and Self-Generated Risk Premium (with Marc Dordal i Carreras)**  
+**A New Indeterminacy and Self-Generated Risk Premium in the New-Keynesian Model (with Marc Dordal i Carreras)**  
 
   *In progress, 2023* Preliminary slides available on request
 
