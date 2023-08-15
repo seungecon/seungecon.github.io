@@ -15,7 +15,7 @@ permalink: /research/
 
 **A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry (with Marc Dordal i Carreras and Zhenghua Qi)** 
 
-*Working paper, 2023*     
+  *Working paper, 2023*     
   (Comments welcome!)\
   Manuscript: [ADAS.theory.pdf](/files/ADAS_Theory.pdf)   
 
