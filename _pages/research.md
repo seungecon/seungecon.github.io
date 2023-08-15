@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Working Papers (Macroeconomics and Finance)
 
-**A Unified Theory of the Term-Structure and Monetary Stabilization: Part I. Theory (joint with Marc Dordal i Carreras)** 
+**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras)** 
 
   *Working paper, 2022*     
   (Comments welcome!)\
@@ -13,7 +13,14 @@ permalink: /research/
   Slides: [Term-structure.theory.slides.pdf](/files/0Seung_JMP2_slides.pdf)  
 
 
-**Active Taylor Rules Still Breed Sunspots: Sunspot Volatility, Risk-Premium, and the Business Cycle (Job Market Paper) (joint with Marc Dordal i Carreras)** 
+**A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry (with Marc Dordal i Carreras and Zhenghua Qi)** 
+
+Working paper, 2023*     
+  (Comments welcome!)\
+  Manuscript: [Term-structure.theory.pdf](/files/ADAS_Theory.pdf)   
+
+
+**Active Taylor Rules Still Breed Sunspots: Sunspot Volatility, Risk-Premium, and the Business Cycle (Job Market Paper) (with Marc Dordal i Carreras)** 
   
   *Working paper, 2023 (Submitted)*  
   Manuscript: [Sunspot_main.pdf](/files/Sunspot_main.pdf)  
@@ -22,13 +29,13 @@ permalink: /research/
   Slides: [Sunspot_slides.pdf](/files/Sunspot_slides.pdf)  
 
 
-**A Higher-Order Forward Guidance (joint with Marc Dordal i Carreras)**  
+**A Higher-Order Forward Guidance (with Marc Dordal i Carreras)**  
 
   *In progress, 2023*\
   Slides: [Higher-order-forward-guidance.pdf](/files/higherFG_slides.pdf)  
 
 
-**Heterogeneous Beliefs, Risk Amplification, and Asset Returns (joint with Goutham Gopalakrishna and Theofanis Papamichalis)** 
+**Heterogeneous Beliefs, Risk Amplification, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis)** 
   
   *Working paper, 2023 (Submitted)*  
   Manuscript: [Belief.pdf](/files/Beliefs.pdf)    
@@ -41,7 +48,7 @@ permalink: /research/
 ## Working Papers (Contract and Corporate Finance)
 
 
-**Managerial Incentives, Financial Innovation, and Risk-Management Policies (joint with Son Ku Kim and Sheridan Titman)** 
+**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman)** 
 
   **News**: Updated!
   
@@ -50,14 +57,14 @@ permalink: /research/
   Slides: [Dual.agency.slides.pdf](/files/Dual_agency_and_risk_management.pdf)    
  
  
-**Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (joint with Jin Yong Jung and Son Ku Kim)** 
+**Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (with Jin Yong Jung and Son Ku Kim)** 
   
   *Working paper, 2022*  
   Manuscript: [ex.ante.pdf](/files/Ex_Post_vs_Ex_Ante.pdf)  
   Slides: [ex.ante.slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)    
 
 
-**Justifying the First-Order Approach in Agency Frameworks with the Agent’s Possibly Non-Concave Value Function (joint with Jin Yong Jung and Son Ku Kim)** 
+**Justifying the First-Order Approach in Agency Frameworks with the Agent’s Possibly Non-Concave Value Function (with Jin Yong Jung and Son Ku Kim)** 
 
   **News**: In major reconstruction
 
@@ -69,32 +76,32 @@ permalink: /research/
 
 ## Work in Progress
 
-
-**Risky Growth with Short-Term Debt (joint with Artur Doshchyn)**  
+**A New Indeterminacy and Self-Generated Risk Premium (with Marc Dordal i Carreras)**  
 
   *In progress, 2023* Preliminary slides available on request
 
-**The Saturated Lower Bound (SLB) (joint with Marc Dordal i Carreras and Zhenghua Qi)**  
+**Do Cost of Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber)**  
 
-  *In progress, 2023* draft coming soon!
+  *In progress, 2023* Preliminary slides available on request
+
+**Risky Growth with Short-Term Debt (with Artur Doshchyn)**  
+
+  *In progress, 2023* Preliminary slides available on request
   
-**Empirical Estimation of Bond Market Segmentation (joint with Marc Dordal i Carreras and Anna Carruthers)**  
+**Empirical Estimation of Bond Market Segmentation (with Marc Dordal i Carreras and Anna Carruthers)**  
 
   *In progress, 2023* 
   
-**Optimal Contracts in the Presence of Risk-Prudence (joint with Jin Yong Jung)**  
+**Optimal Contracts in the Presence of Risk-Prudence (with Jin Yong Jung)**  
 
   *In progress, 2022*  Slides available on request
 
-**Modeling Misspecified Macroeconomic Narratives (joint with Yuriy Gorodnichenko and Chen Lian)**  
-
-  *In progress, 2022*  
 
 
 
 ## Resting Work
 
-**The Spatial Transmission of US Banking Panics (joint with Marc Dordal i Carreras)**  
+**The Spatial Transmission of US Banking Panics ( with Marc Dordal i Carreras)**  
 
   Preliminary Slides: [US Panics.slides.pdf](/files/US_Panics_paper.pdf)
 
