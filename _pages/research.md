@@ -101,7 +101,7 @@ permalink: /research/
 
 ## Resting Work
 
-**The Spatial Transmission of US Banking Panics ( with Marc Dordal i Carreras)**  
+**The Spatial Transmission of US Banking Panics (with Marc Dordal i Carreras)**  
 
   Preliminary Slides: [US Panics.slides.pdf](/files/US_Panics_paper.pdf)
 
