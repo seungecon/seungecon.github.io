@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-I am a tenure-track associate professor of finance at Saïd Business School, Oxford University. During Spring - Summer 2023, I am visiting Princeton University's Economics Department and the Bendheim Center for Finance
+I am a tenure-track associate professor of finance at Saïd Business School, Oxford University.
 
 -----
 
@@ -26,20 +26,20 @@ Education:
 
 Current Research Interests:
 
-* Macroeconomics (monetary economics, macro-finance, growth with finance)
-* Asset pricing (the term-structure of interest rates)
+* Macroeconomics (monetary economics, macro-finance)
+* Theoretical and Empirical Asset pricing (heterogeneous beliefs, the term-structure of interest rates)
 * Economic theory (contract theory, mathematical economics)
 
 
 -----
 
-Current Teaching (2022-2023):
+Current Teaching (2023-2024):
 
-* Firms and Markets (MBA, Hilary Term)
-* Empirial Finance - Advanced Asset Pricing and Macro-Finance (PhD, Trinity Term)
+* First Principles of Financial Economics: MSc in Law and Finance, Michaelmas Term
+* Financial Economics 1 - Asset Pricing and Macro-Finance: MPhil and DPhil, Michaelmas Term
 
 -----
 
 Contact Information:
 
-* seung.lee@sbs.ox.ac.uk or seungjoo@berkeley.edu or sl0324@princeton.edu
+* seung.lee@sbs.ox.ac.uk or seungjoo@berkeley.edu
