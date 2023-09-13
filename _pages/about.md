@@ -27,7 +27,7 @@ Education:
 Current Research Interests:
 
 * Macroeconomics (monetary economics, macro-finance)
-* Theoretical and empirical Asset pricing (heterogeneous beliefs, the term-structure of interest rates)
+* Theoretical and empirical asset pricing (heterogeneous beliefs, the term-structure of interest rates)
 * Economic theory (contract theory, mathematical economics)
 
 
