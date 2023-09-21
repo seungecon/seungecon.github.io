@@ -76,7 +76,7 @@ permalink: /research/
 
 ## Work in Progress
 
-**Indeterminacy with Fluctuations in Volatility and Risk Premium (with Marc Dordal i Carreras)**  
+**A New Indeterminacy with Fluctuations in Volatility and Risk Premium (with Marc Dordal i Carreras)**  
 
   *In progress, 2023* Preliminary slides available on request
 
