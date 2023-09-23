@@ -22,7 +22,7 @@ permalink: /research/
 
 **Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras)** 
   
-  *Working paper, 2023 (Submitted)*
+  *Working paper, 2023 (Submitted)*     
   Manuscript: [Self-fulfilling volatility.pdf](/files/Self-fulfilling_volatility.pdf)    
   Slides: [Self-fulfilling volatility_slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)  
 
