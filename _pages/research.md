@@ -23,9 +23,9 @@ permalink: /research/
 **Active Taylor Rules Still Breed Sunspots: Sunspot Volatility, Risk-Premium, and the Business Cycle (Job Market Paper) (with Marc Dordal i Carreras)** 
   
   *Working paper, 2023 (Submitted)*
-  Manuscript: [Self-fulfilling volatility_LEE and DORDAL i CARRERAS_main.pdf](/files/Self-fulfilling volatility_LEE and DORDAL i CARRERAS_main.pdf)
-  Online Appendix: [Sunspot_appendix.pdf](/files/Self-fulfilling volatility_LEE and DORDAL i CARRERAS_appendix.pdf)  
-  Combined: [Sunspot.pdf](/files/Self-fulfilling volatility_LEE and DORDAL i CARRERAS.pdf)  
+  Manuscript: [ADAS.theory.pdf](/files/.pdf)   
+
+  Manuscript: [Self-fulfilling volatility_LEE and DORDAL i CARRERAS_main.pdf](/files/Self-fulfilling_volatility.pdf)
   Slides: [Sunspot_slides.pdf](/files/Sunspot_slides.pdf)  
 
 
