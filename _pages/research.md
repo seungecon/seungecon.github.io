@@ -24,7 +24,7 @@ permalink: /research/
   
   *Working paper, 2023 (Submitted)*
   Manuscript: [Self-fulfilling volatility.pdf](/files/Self-fulfilling_volatility.pdf)    
-  Slides: [Sunspot_slides.pdf](/files/Sunspot_slides.pdf)  
+  Slides: [Self-fulfilling volatility_slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)  
 
 
 **A Higher-Order Forward Guidance (with Marc Dordal i Carreras)**  
