@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 ---
 
-**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras) [Draft.pdf](/files/Term_Structure.pdf)[Slides.pdf](/files/0Seung_JMP2_slides.pdf)**   
+**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/0Seung_JMP2_slides.pdf)**   
 
 
 **A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry (with Marc Dordal i Carreras and Zhenghua Qi)** 
