@@ -3,12 +3,9 @@ title: "Research"
 permalink: /research/
 ---
 
-## Working Papers (Macroeconomics and Finance)
-
 **A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras)** 
 
   *Working paper, 2022*     
-  (Comments welcome!)\
   Manuscript: [Term-structure.theory.pdf](/files/Term_Structure.pdf)   
   Slides: [Term-structure.theory.slides.pdf](/files/0Seung_JMP2_slides.pdf)  
 
@@ -16,7 +13,6 @@ permalink: /research/
 **A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry (with Marc Dordal i Carreras and Zhenghua Qi)** 
 
   *Working paper, 2023*     
-  (Comments welcome!)\
   Manuscript: [ADAS.theory.pdf](/files/ADAS_Theory.pdf)   
 
 
@@ -41,11 +37,6 @@ permalink: /research/
   Slides: [Beliefs_slides.pdf](/files/Beliefs_slides.pdf)  
 
 
-
-
-## Working Papers (Contract and Corporate Finance)
-
-
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman)** 
 
   **News**: Updated!
@@ -63,8 +54,6 @@ permalink: /research/
 
 
 **Justifying the First-Order Approach in Agency Frameworks with the Agent’s Possibly Non-Concave Value Function (with Jin Yong Jung and Son Ku Kim)** 
-
-  **News**: In major reconstruction
 
   *Working paper, 2022*  
   Manuscript: [First-order approach.pdf](/files/First_order_approach_draft.pdf)  
