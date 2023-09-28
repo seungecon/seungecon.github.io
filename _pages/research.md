@@ -32,23 +32,18 @@ permalink: /research/
 
 **A New Indeterminacy with Fluctuations in Volatility and Risk Premium (with Marc Dordal i Carreras)**  
 
-  *In progress, 2023* Preliminary slides available on request
 
 **Do Cost of Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber)**  
 
-  *In progress, 2023* Preliminary slides available on request
 
 **Risky Growth with Short-Term Debt (with Artur Doshchyn)**  
 
-  *In progress, 2023* Preliminary slides available on request
   
 **Empirical Estimation of Bond Market Segmentation (with Marc Dordal i Carreras and Anna Carruthers)**  
 
-  *In progress, 2023* 
   
 **Optimal Contracts in the Presence of Risk-Prudence (with Jin Yong Jung)**  
 
-  *In progress, 2022*  Slides available on request
 
 
 
