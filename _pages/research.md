@@ -3,13 +3,14 @@ title: "Research"
 permalink: /research/
 ---
 
-**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/0Seung_JMP2_slides.pdf)**   
+[Updated]**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/Term_Structure_Slides.pdf)**   
+
 
 
 **A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry (with Marc Dordal i Carreras and Zhenghua Qi): [Draft.pdf](/files/ADAS_Theory.pdf)**   
 
 
-**Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)**  
+[Updated]**Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)**  
 
 
 **A Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Slides.pdf](/files/higherFG_slides.pdf)**  
