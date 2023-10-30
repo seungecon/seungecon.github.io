@@ -3,6 +3,9 @@ title: "Research"
 permalink: /research/
 ---
 
+[Updated]**Optimism, Net Worth Traps, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/optimism.pdf)**  
+
+
 [Updated]**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/Term_Structure_Slides.pdf)**   
 
 
@@ -14,9 +17,6 @@ permalink: /research/
 
 
 **A Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Slides.pdf](/files/higherFG_slides.pdf)**  
-
-
-**Heterogeneous Beliefs, Risk Amplification, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/Beliefs.pdf) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647) [Slides.pdf](/files/Beliefs_slides.pdf)**  
 
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman) [Draft.pdf](/files/klt_revised_v1.pdf) [Slides.pdf](/files/Dual_agency_and_risk_management.pdf)**    
