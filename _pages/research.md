@@ -3,6 +3,9 @@ title: "Research"
 permalink: /research/
 ---
 
+[Updated - comments welcome]**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman): [Draft.pdf](/files/Risk_Management.pdf)**    
+
+
 [Updated]**Optimism, Net Worth Trap, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/Optimism.pdf)**  
 
 
@@ -19,7 +22,6 @@ permalink: /research/
 **A Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Slides.pdf](/files/higherFG_slides.pdf)**  
 
 
-**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman) [Draft.pdf](/files/klt_revised_v1.pdf) [Slides.pdf](/files/Dual_agency_and_risk_management.pdf)**    
  
  
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/Ex_Post_vs_Ex_Ante.pdf) [Slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)**    
