@@ -27,7 +27,7 @@ permalink: /research/
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/Ex_Post_vs_Ex_Ante.pdf) [Slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)**    
 
 
-**Justifying the First-Order Approach in Agency Frameworks with the Agent’s Possibly Non-Concave Value Function (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/First_order_approach_draft.pdf) [Slides.pdf](/files/First_order_approach_slides.pdf)**  
+[Updated]**A Proxy-Contract Based Approach to the First-Order Approach in Agency Models (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/First_order_approach.pdf)**  
 
 
 
