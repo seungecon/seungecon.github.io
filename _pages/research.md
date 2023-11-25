@@ -6,7 +6,7 @@ permalink: /research/
 [Updated - comments welcome]**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman): [Draft.pdf](/files/Risk_Management.pdf)**    
 
 
-[Updated]**Optimism, Net Worth Trap, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/Optimism.pdf)**  
+[Updated]**Optimism, Net Worth Trap, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/Optimism.pdf) [Slides.pdf](/files/Optimism_slides.pdf)**  
 
 
 [Updated]**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/Term_Structure_Slides.pdf)**   
