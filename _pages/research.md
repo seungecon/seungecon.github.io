@@ -1,22 +1,19 @@
 ---
-title: "Research"
+title: "Research - Macroeconomics and Finance"
 permalink: /research/
 ---
 
-[Updated - comments welcome]**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman): [Draft.pdf](/files/Risk_Management.pdf)**    
+[Updated]**Optimism, Net Worth Trap, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/Optimism.pdf) [Slides.pdf](/files/Optimism_slides.pdf)** Submitted    
 
 
-[Updated]**Optimism, Net Worth Trap, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/Optimism.pdf) [Slides.pdf](/files/Optimism_slides.pdf)**  
-
-
-[Updated]**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/Term_Structure_Slides.pdf)**   
+[Updated]**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/Term_Structure_Slides.pdf)** Submitted      
 
 
 
-**A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry (with Marc Dordal i Carreras and Zhenghua Qi): [Draft.pdf](/files/ADAS_Theory.pdf)**   
+**Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Zhenghua Qi): [Draft.pdf](/files/ADAS_Theory.pdf)** Submitted       
 
 
-[Updated]**Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)**  
+[Updated]**Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)** Submitted      
 
 
 **A Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Slides.pdf](/files/higherFG_slides.pdf)**  
@@ -24,11 +21,20 @@ permalink: /research/
 
  
  
-**Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/Ex_Post_vs_Ex_Ante.pdf) [Slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)**    
 
+
+---
+"Research - Contract Theory"
+permalink: /research/
+---
+
+
+[Updated - comments welcome]**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman): [Draft.pdf](/files/Risk_Management.pdf)**    
 
 [Updated]**A Proxy-Contract Based Approach to the First-Order Approach in Agency Models (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/First_order_approach.pdf)**  
 
+
+**Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/Ex_Post_vs_Ex_Ante.pdf) [Slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)**    
 
 
 ## Work in Progress
