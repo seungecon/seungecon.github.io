@@ -20,7 +20,8 @@ permalink: /research/
 **A Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Slides.pdf](/files/higherFG_slides.pdf)**  
 
 
- 
+**Do Cost of Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber) [Draft.pdf](/files/COL.pdf)**     
+
  
 
 ## Papers - Contract Theory    
@@ -38,9 +39,6 @@ permalink: /research/
 ## Work in Progress
 
 **A New Indeterminacy with Fluctuations in Volatility and Risk Premium (with Marc Dordal i Carreras)**  
-
-
-**Do Cost of Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber)**  
 
 
 **Risky Growth with Short-Term Debt (with Artur Doshchyn)**  
