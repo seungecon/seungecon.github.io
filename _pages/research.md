@@ -17,7 +17,7 @@ permalink: /research/
 **Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)** Submitted      
 
 
-**A Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Slides.pdf](/files/higherFG_slides.pdf)**  
+**A Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Draft.pdf](/files/Higher_order_forward_guidance.pdf) [Slides.pdf](/files/higherFG_slides.pdf)**  
 
 
 **Do Cost of Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber) [Draft.pdf](/files/COL.pdf)**     
