@@ -17,20 +17,19 @@ permalink: /research/
 **Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)**    
 
 
-[NEW!]**Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Draft.pdf](/files/Higher_order_forward_guidance.pdf) [Slides.pdf](/files/higherFG_slides.pdf)**    
+**Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Draft.pdf](/files/Higher_order_forward_guidance.pdf) [Slides.pdf](/files/higherFG_slides.pdf)**    
 
 
-[NEW!]**Do Cost of Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber) [Draft.pdf](/files/COL.pdf)**     
+**Do Cost of Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber) [Draft.pdf](/files/COL.pdf)**     
 
  
 
 ## Papers - Contract Theory    
 
 
-[Updated - comments welcome]**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman): [Draft.pdf](/files/Risk_Management.pdf)**    
+**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman): [Draft.pdf](/files/Risk_Management.pdf)**    
 
-[Updated]**A Proxy-Contract Based Approach to the First-Order Approach in Agency Models (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/First_order_approach.pdf)**  
-
+**A Proxy-Contract Based Approach to the First-Order Approach in Agency Models (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/First_order_approach.pdf)**  
 
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (with Jin Yong Jung and Son Ku Kim): [Draft.pdf](/files/Ex_Post_vs_Ex_Ante.pdf) [Slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)**    
 
