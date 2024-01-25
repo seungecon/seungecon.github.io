@@ -5,19 +5,19 @@ permalink: /research/
 
 ## Papers - Macroeconomics and Finance    
 
-**Optimism, Net Worth Trap, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/Optimism.pdf) [Slides.pdf](/files/Optimism_slides.pdf)** Submitted    
+**Optimism, Net Worth Trap, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis): [Draft.pdf](/files/Optimism.pdf) [Slides.pdf](/files/Optimism_slides.pdf)**     
 
 
-**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/Term_Structure_Slides.pdf)** Submitted      
+**A Unified Theory of the Term-Structure and Monetary Stabilization (with Marc Dordal i Carreras): [Draft.pdf](/files/Term_Structure.pdf) [Slides.pdf](/files/Term_Structure_Slides.pdf)**     
 
 
-**Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Zhenghua Qi): [Draft.pdf](/files/ADAS_Theory.pdf)** Submitted       
+**Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Zhenghua Qi): [Draft.pdf](/files/ADAS_Theory.pdf)**      
 
 
-**Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)** Submitted      
+**Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)**    
 
 
-[NEW!]**Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Draft.pdf](/files/Higher_order_forward_guidance.pdf) [Slides.pdf](/files/higherFG_slides.pdf)**  
+[NEW!]**Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Draft.pdf](/files/Higher_order_forward_guidance.pdf) [Slides.pdf](/files/higherFG_slides.pdf)**    
 
 
 [NEW!]**Do Cost of Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber) [Draft.pdf](/files/COL.pdf)**     
