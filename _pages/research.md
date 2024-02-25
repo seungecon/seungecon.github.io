@@ -14,7 +14,7 @@ permalink: /research/
 **Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Zhenghua Qi): [Draft.pdf](/files/ADAS_Theory.pdf)**      
 
 
-**Self-fulfilling Volatility, Risk-Premium, and Business Cycles (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)**    
+[Updated!]**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper) (with Marc Dordal i Carreras): [Draft.pdf](/files/Self-fulfilling_volatility.pdf) [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)**    
 
 
 **Higher-Order Forward Guidance (with Marc Dordal i Carreras) [Draft.pdf](/files/Higher_order_forward_guidance.pdf) [Slides.pdf](/files/higherFG_slides.pdf)**    
