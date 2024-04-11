@@ -37,22 +37,10 @@ permalink: /research/
 
 ## Work in Progress
 
+**The Spatial Transmission of US Banking Panics (with Marc Dordal i Carreras)**
+
+
 **A New Indeterminacy with Fluctuations in Volatility and Risk Premium (with Marc Dordal i Carreras)**  
 
 
 **Risky Growth with Short-Term Debt (with Artur Doshchyn)**  
-
-  
-**Empirical Estimation of Bond Market Segmentation (with Marc Dordal i Carreras and Anna Carruthers)**  
-
-  
-**Optimal Contracts in the Presence of Risk-Prudence (with Jin Yong Jung)**  
-
-
-
-
-
-## Resting Work
-
-**The Spatial Transmission of US Banking Panics (with Marc Dordal i Carreras) [Slides.pdf](/files/US_Panics_paper.pdf)**
-
