@@ -37,6 +37,7 @@ Current Teaching (2023-2024):
 
 * First Principles of Financial Economics: MSc in Law and Finance, Michaelmas Term
 * Financial Economics 1 - Asset Pricing and Macro-Finance: MPhil and DPhil, Michaelmas Term
+* Empirical Finance - Advanced Asset Pricing: DPhil, Trinity Term
 
 -----
 
