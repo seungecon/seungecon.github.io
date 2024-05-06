@@ -22,7 +22,10 @@ permalink: /research/
 
 **Do Cost-of-Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber) [Draft.pdf](/files/COL.pdf)**     
 
- 
+
+**The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929 (with Marc Dordal i Carreras) [Draft.pdf](/files/Panic.pdf)**     
+
+
 
 ## Papers - Contract Theory    
 
@@ -37,7 +40,6 @@ permalink: /research/
 
 ## Work in Progress
 
-**The Spatial Transmission of US Banking Panics (with Marc Dordal i Carreras)**
 
 
 **A New Indeterminacy with Fluctuations in Volatility and Risk Premium (with Marc Dordal i Carreras)**  
