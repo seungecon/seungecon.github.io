@@ -21,7 +21,7 @@ permalink: /research/
 
 
 **Do Cost-of-Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber) [Draft.pdf](/files/COL.pdf)**     
-*Blog post: https://libertystreeteconomics.newyorkfed.org/2024/05/do-unexpected-inflationary-shocks-raise-workers-wages/*
+[Blog post](https://libertystreeteconomics.newyorkfed.org/2024/05/do-unexpected-inflationary-shocks-raise-workers-wages/)
 
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929 (with Marc Dordal i Carreras) [Draft.pdf](/files/Panic.pdf)**     
