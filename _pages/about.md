@@ -19,7 +19,7 @@ I am a tenure-track associate professor of finance at Saïd Business School, Oxf
 
 Education:
 
-* I graduated with a Ph.D. in Economics from U.C. Berkeley in 2022
+* Ph.D. in Economics from U.C. Berkeley in 2022
 
 
 -----
