@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  #- title: "Work in Progress"
-  #  url: /talks/    
+  - title: "Discussion"
+    url: /discussion/    
 
   #- title: "Teaching"
   #  url: /teaching/    
