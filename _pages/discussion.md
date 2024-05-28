@@ -1,6 +1,6 @@
 ---
-title: 
-permalink: /research/
+title: Discussion
+permalink: /discussion/
 ---
 
 ## Working papers
