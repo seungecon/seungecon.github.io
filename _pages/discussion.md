@@ -3,7 +3,6 @@ title: Discussion
 permalink: /discussion/
 ---
 
-## Working papers
 
 **paper 1**  
   (joint with A)  
