@@ -27,7 +27,7 @@ permalink: /research/
 
 **Do Cost-of-Living Shocks Pass Through into Wages? (with Justin Bloesch and Jake Weber)**    
 - [Draft.pdf](/files/COL.pdf), [Slides.pdf](/files/COL_slides.pdf)      
-- [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf)     
+- [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf): for Policymakers     
 - [Blog post](https://libertystreeteconomics.newyorkfed.org/2024/05/do-unexpected-inflationary-shocks-raise-workers-wages/) on Liberty Street Economics        
 
 
