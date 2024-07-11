@@ -5,6 +5,13 @@ permalink: /research/
 
 ## Papers - Macroeconomics and Finance    
 
+
+**Do Cost-of-Living Shocks Pass Through to Wages? (with Justin Bloesch and Jake Weber)**    
+- [Draft.pdf](/files/COL.pdf), [Slides.pdf](/files/COL_slides.pdf)      
+- [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf): for Policymakers     
+- [Executive Summary](https://libertystreeteconomics.newyorkfed.org/2024/05/do-unexpected-inflationary-shocks-raise-workers-wages/) on Liberty Street Economics        
+
+
 **Optimism, Net Worth Trap, and Asset Returns (with Goutham Gopalakrishna and Theofanis Papamichalis)**    
 - [Draft.pdf](/files/Optimism.pdf), [Slides.pdf](/files/Optimism_slides.pdf)      
 
@@ -23,12 +30,6 @@ permalink: /research/
 
 **Higher-Order Forward Guidance (with Marc Dordal i Carreras)**    
 - [Draft.pdf](/files/Higher_order_forward_guidance.pdf), [Slides.pdf](/files/higherFG_slides.pdf)
-
-
-**Do Cost-of-Living Shocks Pass Through to Wages? (with Justin Bloesch and Jake Weber)**    
-- [Draft.pdf](/files/COL.pdf), [Slides.pdf](/files/COL_slides.pdf)      
-- [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf): for Policymakers     
-- [Executive Summary](https://libertystreeteconomics.newyorkfed.org/2024/05/do-unexpected-inflationary-shocks-raise-workers-wages/) on Liberty Street Economics        
 
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929 (with Marc Dordal i Carreras)**      
