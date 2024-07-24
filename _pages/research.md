@@ -35,11 +35,11 @@ permalink: /research/
 ## Papers - Contract Theory    
 
 
-**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman)**      
-- [Draft.pdf](/files/Risk_Management.pdf)      
-
 **A Proxy-Contract Based Approach to the First-Order Approach in Agency Models (with Jin Yong Jung and Son Ku Kim)**      
-- [Draft.pdf](/files/First_order_approach.pdf)      
+- [Draft.pdf](/files/First_order_approach.pdf), [Slides.pdf](/files/First_order_approach_slides.pdf) (Submitted)    
+
+**Managerial Incentives, Financial Innovation, and Risk-Management Policies (with Son Ku Kim and Sheridan Titman)**      
+- [Draft.pdf](/files/Risk_Management.pdf)         
 
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model (with Jin Yong Jung and Son Ku Kim)**      
 - [Draft.pdf](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)
