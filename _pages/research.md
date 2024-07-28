@@ -18,7 +18,7 @@ permalink: /research/
 - [Draft.pdf](/files/Term_Structure.pdf), [Slides.pdf](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
 
 **Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Zhenghua Qi)**    
-- [Draft.pdf](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217)    
+- [Draft.pdf](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
 
 [Updated!]**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper) (with Marc Dordal i Carreras)**
 - [Draft.pdf](/files/Self-fulfilling_volatility.pdf), [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)      
