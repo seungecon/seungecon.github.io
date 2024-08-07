@@ -21,8 +21,7 @@ permalink: /research/
 - [Draft.pdf](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
 
 [Updated!]**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper) (with Marc Dordal i Carreras)**
-- [Draft.pdf](/files/Self-fulfilling_volatility.pdf), [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf)      
-
+- [Draft.pdf](/files/Self-fulfilling_volatility.pdf), [Slides.pdf](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
 
 **Higher-Order Forward Guidance (with Marc Dordal i Carreras)**    
 - [Draft.pdf](/files/Higher_order_forward_guidance.pdf), [Slides.pdf](/files/higherFG_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
