@@ -13,7 +13,8 @@ permalink: /research/
 - [Executive Summary](https://libertystreeteconomics.newyorkfed.org/2024/05/do-unexpected-inflationary-shocks-raise-workers-wages/) on Liberty Street Economics        
 
 **Optimism, Net Worth Trap, and Asset Returns** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
-- [Draft.pdf](/files/Optimism.pdf), [Slides.pdf](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)     
+- [Draft.pdf](/files/Optimism.pdf), [Slides.pdf](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)
+- Revise and Resubmit at _Journal of Economic Theory_           
 
 **A Unified Theory of the Term-Structure and Monetary Stabilization** (with Marc Dordal i Carreras)    
 - [Draft.pdf](/files/Term_Structure.pdf), [Slides.pdf](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
