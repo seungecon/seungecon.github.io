@@ -18,6 +18,7 @@ permalink: /research/
 
 **A Unified Theory of the Term-Structure and Monetary Stabilization** (with Marc Dordal i Carreras)    
 - [Draft.pdf](/files/Term_Structure.pdf), [Slides.pdf](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
+- Reject and Resubmit at _Journal of Money, Credit and Banking_           
 
 **Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy** (with Marc Dordal i Carreras and Zhenghua Qi)    
 - [Draft.pdf](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
