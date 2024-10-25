@@ -35,9 +35,9 @@ Current Research Interests:
 
 Current Teaching (2024-2025):
 
-* First Principles of Financial Economics: MSc in Law and Finance, Michaelmas Term
-* Financial Economics 1 - Asset Pricing and Macro-Finance: MPhil and DPhil, Michaelmas Term
-* Empirical Finance - Advanced Asset Pricing: DPhil, Trinity Term
+* First Principles of Financial Economics: MSc in Law and Finance (MT)
+* Financial Economics 1 - Asset Pricing: MPhil and DPhil (MT)
+* Empirical Finance - Advanced Asset Pricing: DPhil (TT)
 
 -----
 
