@@ -40,7 +40,7 @@ permalink: /research/
 - [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)    
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
-- [Draft](/files/Risk_Management.pdf) (To be presented at 24' Finance Theory Group (FTG) meeting)         
+- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_Slides.pdf) (To be presented at 24' Finance Theory Group (FTG) meeting)         
 
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)
