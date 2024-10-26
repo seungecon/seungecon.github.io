@@ -43,7 +43,7 @@ permalink: /research/
 - [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_Slides.pdf) (To be presented at 24' Finance Theory Group (FTG) meeting)         
 
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model** (with Jin Yong Jung and Son Ku Kim)      
-- [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides.pdf](/files/Ex_Post_vs_Ex_Ante_slides.pdf)
+- [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides](/files/Ex_Post_vs_Ex_Ante_slides.pdf)
 
 
 
