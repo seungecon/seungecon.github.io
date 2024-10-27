@@ -29,7 +29,7 @@ permalink: /research/
 - [Draft](/files/Higher_order_forward_guidance.pdf), [Slides](/files/higherFG_slides.pdf), [Short Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
-- [Draft](/files/Panic.pdf)
+- [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf)
 
 
 
