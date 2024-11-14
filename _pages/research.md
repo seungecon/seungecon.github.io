@@ -15,6 +15,9 @@ permalink: /research/
 - [Draft](/files/Optimism.pdf), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)
 - Revise and Resubmit at _Journal of Economic Theory_           
 
+**Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
+- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf)           
+
 **A Unified Theory of the Term-Structure and Monetary Stabilization** (with Marc Dordal i Carreras)    
 - [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
 - Reject and Resubmit at _Journal of Money, Credit and Banking_           
@@ -38,9 +41,6 @@ permalink: /research/
 
 **A Proxy-Contract Based Approach to the First-Order Approach in Agency Models** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)    
-
-**Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
-- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf)           
 
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides](/files/Ex_Post_vs_Ex_Ante_slides.pdf)
