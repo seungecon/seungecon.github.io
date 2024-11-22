@@ -7,7 +7,7 @@ permalink: /research/
 
 
 **Do Cost-of-Living Shocks Pass Through to Wages?** (with Justin Bloesch and Jake Weber)    
-- [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [Short Slides](/files/COL_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451), [FRBNY Staff Report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975921)      
+- [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [Short Slides](/files/COL_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
 - [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf): for Policymakers
 - [An Analytic Two-Period Model](/files/COL_Twoperiod.pdf): analytic proofs and derivations      
 
