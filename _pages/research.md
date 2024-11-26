@@ -12,7 +12,7 @@ permalink: /research/
 - [An Analytic Two-Period Model](/files/COL_Twoperiod.pdf): analytic proofs and derivations      
 
 **Optimism, Net Worth Trap, and Asset Returns** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
-- [Draft](/files/Optimism.pdf), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647)
+- [Draft](/files/Optimism.pdf), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism)      
 - Revise and Resubmit at _Journal of Economic Theory_           
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
