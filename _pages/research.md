@@ -11,7 +11,7 @@ permalink: /research/
 - [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf): for Policymakers
 - [An Analytic Two-Period Model](/files/COL_Twoperiod.pdf): analytic proofs and derivations      
 
-**Optimism, Net Worth Trap, and Asset Returns** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
+**Beliefs and the Net Worth Trap** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
 - [Draft](/files/Optimism.pdf), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism)      
 - Revise and Resubmit at _Journal of Economic Theory_           
 
