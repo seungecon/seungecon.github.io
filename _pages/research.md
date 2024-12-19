@@ -49,7 +49,7 @@ permalink: /research/
 
 ## Work in Progress
 
-**War Procurement and the Korean Export Miracle** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
+**From War Contracts to Export Success? U.S. War Procurement and Firm Growth in South Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 
 
 **A New Indeterminacy with Fluctuations in Volatility and Risk Premium** (with Marc Dordal i Carreras)  
