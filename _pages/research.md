@@ -5,6 +5,8 @@ permalink: /research/
 
 ## Papers - Macroeconomics and Finance    
 
+**Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
+- [Draft](/files/Higher_order_forward_guidance.pdf), [Short Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
 
 **Do Cost-of-Living Shocks Pass Through to Wages?** (with Justin Bloesch and Jake Weber)    
 - [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [Short Slides](/files/COL_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
@@ -27,9 +29,6 @@ permalink: /research/
 
 **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras)
 - [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
-
-**Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
-- [Draft](/files/Higher_order_forward_guidance.pdf), [Slides](/files/higherFG_slides.pdf), [Short Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
 - [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf)
