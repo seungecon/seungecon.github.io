@@ -38,6 +38,7 @@ Current Teaching (2024-2025):
 * First Principles of Financial Economics: MSc in Law and Finance (MT)
 * Financial Economics 1 - Asset Pricing: MPhil and DPhil (MT)
 * Empirical Finance - Advanced Asset Pricing: DPhil (TT)
+* MBA Macroeconomics in the Global Economy (TT)
 
 -----
 
