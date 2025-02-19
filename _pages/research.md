@@ -17,7 +17,7 @@ permalink: /research/
 - [Draft](/files/Higher_order_forward_guidance.pdf), [Short Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
 
 **Firm Wage Setting and On-the-Job Search Limit Wage-Price Spirals** (with Justin Bloesch and Jake Weber)    
-- [Draft](/files/COL.pdf), [Old Slides](/files/COL_slides.pdf), [Short Slides](/files/COL_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
+- [Draft](/files/COL.pdf), [Old Slides](/files/COL_slides.pdf), [Old Short Slides](/files/COL_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
 - [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf): for Policymakers
 - [An Analytic Two-Period Model](/files/COL_Twoperiod.pdf): analytic proofs and derivations      
 
