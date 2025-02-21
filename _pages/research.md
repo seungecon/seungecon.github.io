@@ -24,11 +24,10 @@ permalink: /research/
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
 - [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf)           
 
-**A Unified Theory of the Term-Structure and Monetary Stabilization** (with Marc Dordal i Carreras)    
+**Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
 - [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
-- Reject and Resubmit at _Journal of Money, Credit and Banking_           
 
-**Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy** (with Marc Dordal i Carreras and Zhenghua Qi)    
+**Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
 - [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
 
 **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras)
