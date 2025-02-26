@@ -34,7 +34,7 @@ permalink: /research/
 - [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
-- [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf)
+- [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
 
 
 
