@@ -13,6 +13,9 @@ permalink: /research/
 
 ## Research Papers    
 
+**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras) - substantially revised
+- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
+
 **Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
 - [Draft](/files/Higher_order_forward_guidance.pdf), [Short Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
 
@@ -29,9 +32,6 @@ permalink: /research/
 
 **Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
 - [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
-
-**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras)
-- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
 - [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
