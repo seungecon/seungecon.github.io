@@ -15,7 +15,10 @@ permalink: /research/
 
 **Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
 - [Draft](/files/Higher_order_forward_guidance.pdf), [Short Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
-- Revise and Resubmit at _Journal of Economic Theory_           
+- Revise and Resubmit at _Journal of Economic Theory_
+
+**Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
+- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf)           
 
 **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras) - substantially revised
 - [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
@@ -24,9 +27,6 @@ permalink: /research/
 - [Draft](/files/COL.pdf), [Short Slides](/files/COL_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
 - [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf): for Policymakers
 - [An Analytic Two-Period Model](/files/COL_Twoperiod.pdf): analytic proofs and derivations      
-
-**Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
-- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf)           
 
 **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
 - [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
