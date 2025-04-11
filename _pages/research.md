@@ -18,7 +18,7 @@ permalink: /research/
 - Revise and Resubmit at _Journal of Economic Theory_
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
-- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf)           
+- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197516)           
 
 **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras) - substantially revised
 - [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
