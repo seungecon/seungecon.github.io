@@ -24,7 +24,7 @@ permalink: /research/
 - [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
 
 **Firm Wage Setting and On-the-Job Search Limit Wage-Price Spirals** (with Justin Bloesch and Jake Weber)    
-- [Draft](/files/COL.pdf), [Short Slides](/files/COL_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
+- [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
 - [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf): for Policymakers
 - [An Analytic Two-Period Model](/files/COL_Twoperiod.pdf): analytic proofs and derivations      
 
