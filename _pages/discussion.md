@@ -13,7 +13,7 @@ permalink: /discussion/
 - [Slides](/files/CAFM_2024.pdf) (CAFM 2024 Seoul)     
 
 
-## Lectures
+## Other Lectures
 
 **A Global Approach to New Keynesian Macroeconomics** (at Korea University)       
 - [Slides](/files/KU_lecture_global.pdf)         
