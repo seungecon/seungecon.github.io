@@ -3,8 +3,6 @@ title: Discussion
 permalink: /discussion/
 ---
 
-## Discussion
-
 **Indebted Supply and Monetary Policy: A Theory of Financial Dominance** (by Viral Acharya, Guillaume Plantin, and Olivier Wang)       
 - [Slides.pdf](/files/FIRS_2025.pdf) (FIRS 2025 Seoul)
   
@@ -13,3 +11,10 @@ permalink: /discussion/
 
 **Optimal Communication in Banking Supervision** (by Jeong Ho (John) Kim, Kyungmin Kim, Victoria Liu, and Noam Tanner)           
 - [Slides.pdf](/files/CAFM_2024.pdf) (CAFM 2024 Seoul)     
+
+
+## Lectures
+
+**A Global Approach to New Keynesian Macroeconomics** (at Korea University)       
+- [Slides](/files/KU_lecture_global.pdf),
+
