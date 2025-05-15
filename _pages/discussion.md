@@ -3,6 +3,8 @@ title: Discussion
 permalink: /discussion/
 ---
 
+## Discussion
+
 **Indebted Supply and Monetary Policy: A Theory of Financial Dominance** (by Viral Acharya, Guillaume Plantin, and Olivier Wang)       
 - [Slides.pdf](/files/FIRS_2025.pdf) (FIRS 2025 Seoul)
   
