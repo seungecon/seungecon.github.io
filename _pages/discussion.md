@@ -16,5 +16,5 @@ permalink: /discussion/
 ## Lectures
 
 **A Global Approach to New Keynesian Macroeconomics** (at Korea University)       
-- [Slides](/files/KU_lecture_global.pdf),
+- [Slides](/files/KU_lecture_global.pdf)         
 
