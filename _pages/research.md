@@ -54,7 +54,7 @@ permalink: /research/
 **Sentiments and Intermediary Asset Pricing** (with Goutham Gopalakrishna and Yulong Peng)  
 
 
-**Re-estimating r-star with rp-star** (With Marc Dordal i Carreras and Runhuan Wang)     
+**Re-estimating r-star with rp-star** (with Marc Dordal i Carreras and Runhuan Wang)     
 
 
 **Risky Growth with Short-Term Debt** (with Artur Doshchyn)  
