@@ -7,7 +7,7 @@ permalink: /research/
 
 **Beliefs and the Net Worth Trap** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
 - [Draft](/files/Optimism.pdf), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism)      
-- Accepted at _Journal of Economic Theory_           
+- _Journal of Economic Theory_ Volume 227, June 2025           
 
 
 
