@@ -3,6 +3,9 @@ title: Discussion
 permalink: /discussion/
 ---
 
+**U.S. Risk and Treasury Convenience** (by Giancarlo Corsetti, Simon Lloyd, Emile Marin, and Daniel Ostry)       
+- [Slides](/files/Bristol_2025_discussion.pdf) (Bristol Financial Markets Conference 2025)
+
 **Indebted Supply and Monetary Policy: A Theory of Financial Dominance** (by Viral Acharya, Guillaume Plantin, and Olivier Wang)       
 - [Slides](/files/FIRS_2025.pdf) (FIRS 2025 Seoul)
   
