@@ -30,6 +30,7 @@ permalink: /research/
 
 **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
 - [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
+- Revise and Resubmit at _The Economic Journal_
 
 **Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
 - [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
