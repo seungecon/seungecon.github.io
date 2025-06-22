@@ -38,6 +38,7 @@ permalink: /research/
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
 - [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
+- Revise and Resubmit at _Oxford Bulletin of Economics and Statistics_
 
 **A Proxy-Contract Based Approach to the First-Order Approach in Agency Models** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)    
