@@ -9,6 +9,9 @@ permalink: /research/
 - [Draft](/files/Optimism.pdf), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism)      
 - _Journal of Economic Theory_, Volume 227, June 2025           
 
+**The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
+- [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
+- Accepted at _Oxford Bulletin of Economics and Statistics_
 
 
 ## Research Papers    
@@ -35,10 +38,6 @@ permalink: /research/
 **Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
 - [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
 - Reject and Resubmit at _European Economic Review_
-
-**The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
-- [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
-- Revise and Resubmit at _Oxford Bulletin of Economics and Statistics_
 
 **A Proxy-Contract Based Approach to the First-Order Approach in Agency Models** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)    
