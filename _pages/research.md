@@ -17,7 +17,7 @@ permalink: /research/
 ## Research Papers    
 
 **Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
-- [Draft](/files/Higher_order_forward_guidance.pdf), [Short Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
+- [Draft](/files/Higher_order_forward_guidance.pdf), [Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
 - Revise and Resubmit at _Journal of Economic Theory_
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
