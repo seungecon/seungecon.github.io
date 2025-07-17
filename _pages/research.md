@@ -11,7 +11,7 @@ permalink: /research/
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
 - [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
-- Accepted at _Oxford Bulletin of Economics and Statistics_
+- Forthcoming at _Oxford Bulletin of Economics and Statistics_
 
 
 ## Research Papers    
@@ -49,7 +49,7 @@ permalink: /research/
 
 ## Work in Progress
 
-**From War Contracts to Export Success? U.S. War Procurement and Firm Growth in South Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
+**War Procurement and the Korean Export Miracle** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 
 
 **Sentiments and Intermediary Asset Pricing** (with Goutham Gopalakrishna and Yulong Peng)  
