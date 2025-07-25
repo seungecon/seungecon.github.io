@@ -3,6 +3,9 @@ title: Discussion
 permalink: /discussion/
 ---
 
+**Taxing Sudden Capital Income Surges** (by Wei Cui and Jianjun Miao)       
+- [Slides](/files/CESifo2025_discussion.pdf) (CESifo Area Conference on Macro, Money, and International Finance 2025)
+
 **U.S. Risk and Treasury Convenience** (by Giancarlo Corsetti, Simon Lloyd, Emile Marin, and Daniel Ostry)       
 - [Slides](/files/Bristol_2025_discussion.pdf) (Bristol Financial Markets Conference 2025)
 
