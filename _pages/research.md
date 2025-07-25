@@ -42,7 +42,9 @@ permalink: /research/
 
 
 **A Proxy-Contract Based Approach to the First-Order Approach in Agency Models** (with Jin Yong Jung and Son Ku Kim)      
-- [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)        
+- [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)
+
+
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides](/files/Ex_Post_vs_Ex_Ante_slides.pdf)    
 
