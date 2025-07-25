@@ -26,12 +26,6 @@ permalink: /research/
 - [An Analytic Two-Period Model](/files/COL_Twoperiod.pdf): analytic proofs and derivations      
 - Revise and Resubmit at _American Economic Journal: Macroeconomics_
 
-**Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
-- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197516)           
-
-**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras) - substantially revised
-- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
-
 **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
 - [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
 - Revise and Resubmit at _The Economic Journal_
@@ -40,9 +34,13 @@ permalink: /research/
 - [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
 - Reject and Resubmit at _European Economic Review_
 
+**Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
+- [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197516)           
+
+**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras) - substantially revised
+- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
 **A Proxy-Contract Based Approach to the First-Order Approach in Agency Models** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)    
-
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides](/files/Ex_Post_vs_Ex_Ante_slides.pdf)
 
