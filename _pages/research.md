@@ -38,11 +38,11 @@ permalink: /research/
 - [Draft](/files/Risk_Management.pdf), [Slides](/files/Risk_Management_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197516)           
 
 **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras) - substantially revised
-- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)      
+- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)           
 **A Proxy-Contract Based Approach to the First-Order Approach in Agency Models** (with Jin Yong Jung and Son Ku Kim)      
-- [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)    
+- [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)        
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model** (with Jin Yong Jung and Son Ku Kim)      
-- [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides](/files/Ex_Post_vs_Ex_Ante_slides.pdf)
+- [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides](/files/Ex_Post_vs_Ex_Ante_slides.pdf)    
 
 
 
