@@ -3,6 +3,8 @@ title: Discussion
 permalink: /discussion/
 ---
 
+## Discussion Slides
+
 **Taxing Sudden Capital Income Surges** (by Wei Cui and Jianjun Miao)       
 - [Slides](/files/CESifo2025_discussion.pdf) (CESifo Area Conference on Macro, Money, and International Finance 2025)
 
