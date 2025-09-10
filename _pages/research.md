@@ -39,7 +39,7 @@ permalink: /research/
 - Reject and Resubmit at _European Economic Review_
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
-- [Draft](/files/Risk_Management.pdf), [NBER WP](/files/Risk_Management_NBER.pdf), [Slides](/files/Risk_Management_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197516)           
+- [Draft](/files/Risk_Management.pdf), [NBER WP](https://www.nber.org/papers/w34211), [Slides](/files/Risk_Management_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197516)           
 
 **A Proxy-Contract Based Approach to the First-Order Approach in Agency Models** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/First_order_approach.pdf), [Slides](/files/First_order_approach_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899689) (Submitted)
