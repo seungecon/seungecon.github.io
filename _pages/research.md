@@ -54,7 +54,7 @@ permalink: /research/
 **U.S. War Procurement & the Korean Export Miracle** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 
 
-**Sentiments and Intermediary Asset Pricing** (with Goutham Gopalakrishna and Yulong Peng)  
+**Sentiment in Intermediary Asset Classes** (with Goutham Gopalakrishna and Yulong Peng)  
 
 
 **Re-estimating r-star with rp-star** (with Marc Dordal i Carreras and Runhuan Wang)     
