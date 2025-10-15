@@ -51,7 +51,7 @@ permalink: /research/
 
 ## Work in Progress
 
-**U.S. War Procurement & the Korean Export Miracle** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
+**U.S. War Procurement and the Korean Export Miracle** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 
 
 **Sentiment in Intermediated Asset Classes** (with Goutham Gopalakrishna and Yulong Peng)  
