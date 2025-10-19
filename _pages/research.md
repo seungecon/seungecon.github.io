@@ -13,12 +13,12 @@ permalink: /research/
 - [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
 - Forthcoming at _Oxford Bulletin of Economics and Statistics_
 
-
-## Research Papers    
-
 **Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
 - [Draft](/files/Higher_order_forward_guidance.pdf), [Slides](/files/HOFG_slides_RANK.pdf), [TANK Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
-- Revise and Resubmit at _Journal of Economic Theory_
+- Conditionally Accepted at _Journal of Economic Theory_
+
+
+## Research Papers    
 
 **Firm Wage Setting and On-the-Job Search Limit Wage-Price Spirals** (with Justin Bloesch and Jake Weber)    
 - [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
