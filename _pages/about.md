@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-I am a tenure-track associate professor of finance at Saïd Business School, Oxford University. I work in macroeconomics, finance, and theory.
+I am a tenure-track associate professor of finance at Saïd Business School, Oxford University. I work in macroeconomics, finance, and theory, and have a broad interest in geopolitics and geoeconomics.
 
 -----
 
