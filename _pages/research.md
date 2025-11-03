@@ -20,7 +20,7 @@ permalink: /research/
 
 ## Research Papers     
 
-**Geopolitics and Export Miracles: Firm-Level Evidence from U.S.War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
+**Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 - [Draft](/files/Procurement.pdf)       
 
 **Firm Wage Setting and On-the-Job Search Limit Wage-Price Spirals** (with Justin Bloesch and Jake Weber)    
