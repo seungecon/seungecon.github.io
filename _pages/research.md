@@ -18,7 +18,10 @@ permalink: /research/
 - Forthcoming at _Journal of Economic Theory_
 
 
-## Research Papers    
+## Research Papers     
+
+**Geopolitics and Export Miracles: Firm-Level Evidence from U.S.War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
+- [Draft](/files/Procurement.pdf)       
 
 **Firm Wage Setting and On-the-Job Search Limit Wage-Price Spirals** (with Justin Bloesch and Jake Weber)    
 - [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
@@ -50,8 +53,6 @@ permalink: /research/
 
 
 ## Work in Progress
-
-**U.S. War Procurement and the Korean Export Miracle** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 
 
 **Sentiment in Intermediated Asset Classes** (with Goutham Gopalakrishna and Yulong Peng)  
