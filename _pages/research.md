@@ -54,6 +54,8 @@ permalink: /research/
 
 ## Work in Progress
 
+**Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)       
+
 
 **Sentiment in Intermediated Asset Classes** (with Goutham Gopalakrishna and Yulong Peng)  
 
