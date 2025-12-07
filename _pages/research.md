@@ -57,6 +57,9 @@ permalink: /research/
 **Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)       
 
 
+**Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)       
+
+
 **Sentiment in Intermediated Asset Classes** (with Goutham Gopalakrishna and Yulong Peng)  
 
 
