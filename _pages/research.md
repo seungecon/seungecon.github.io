@@ -6,16 +6,16 @@ permalink: /research/
 ## Publication
 
 **Beliefs and the Net Worth Trap** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
-- [Draft](/files/Optimism.pdf), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism)      
+- [Draft](/files/Optimism.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125000791), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism)      
 - _Journal of Economic Theory_, Volume 227, June 2025           
+
+**Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
+- [Draft](/files/Higher_order_forward_guidance.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125001541?via%3Dihub), [Slides](/files/HOFG_slides_RANK.pdf), [TANK Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
+- _Journal of Economic Theory_, Volume 231, January 2026
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
 - [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
 - Forthcoming at _Oxford Bulletin of Economics and Statistics_
-
-**Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
-- [Draft](/files/Higher_order_forward_guidance.pdf), [Slides](/files/HOFG_slides_RANK.pdf), [TANK Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631)    
-- Forthcoming at _Journal of Economic Theory_
 
 
 ## Research Papers     
