@@ -14,8 +14,8 @@ permalink: /research/
 - _Journal of Economic Theory_, Volume 231, January 2026
 
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
-- [Draft](/files/Panic.pdf), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
-- Forthcoming at _Oxford Bulletin of Economics and Statistics_
+- [Draft](/files/Panic.pdf), [Published Version](https://onlinelibrary.wiley.com/doi/10.1111/obes.70007), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
+- _Oxford Bulletin of Economics and Statistics_, Volume 88, Issue 1, February 2026
 
 
 ## Research Papers     
