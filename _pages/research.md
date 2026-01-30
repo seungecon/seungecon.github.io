@@ -20,6 +20,12 @@ permalink: /research/
 
 ## Research Papers     
 
+**Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
+- [Draft](/files/Technology_Adoption.pdf)    
+
+**Data Centers and Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)     
+- [Draft](/files/Pecuniary_Externality.pdf)     
+
 **Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 - [Draft](/files/Procurement.pdf), [Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123), [SocArxiv](https://osf.io/preprints/socarxiv/vxej4_v1)     
 
@@ -53,12 +59,6 @@ permalink: /research/
 
 
 ## Work in Progress
-
-**Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)       
-
-
-**Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)       
-
 
 **Sentiment in Intermediated Asset Classes** (with Goutham Gopalakrishna and Yulong Peng)  
 
