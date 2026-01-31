@@ -21,7 +21,7 @@ permalink: /research/
 ## Research Papers     
 
 (NEW!) **Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
-- [Draft](/files/Technology_Adoption.pdf)    
+- [Draft](/files/Technology_Adoption.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6152727)    
 
 (NEW!) **Data Centers and Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)     
 - [Draft](/files/Pecuniary_Externality.pdf)     
