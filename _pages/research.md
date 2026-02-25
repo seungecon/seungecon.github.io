@@ -20,6 +20,10 @@ permalink: /research/
 
 ## Research Papers     
 
+(REVISED!) **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras)
+- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)
+- Revise and Resubmit at _Journal of the European Economic Association_
+
 (NEW!) **Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
 - [Draft](/files/Technology_Adoption.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6152727)    
 
@@ -38,10 +42,6 @@ permalink: /research/
 **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
 - [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_Structure_Slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
 - Revise and Resubmit at _The Economic Journal_
-
-**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras) - substantially revised
-- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)
-- Revise and Resubmit at _Journal of the European Economic Association_
 
 **Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
 - [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
