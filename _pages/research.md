@@ -21,14 +21,14 @@ permalink: /research/
 ## Research Papers     
 
 (REVISED!) **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras)
-- [Draft](/files/Self-fulfilling_volatility.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)
-- Revise and Resubmit at _Journal of the European Economic Association_
+- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)
+- Revise and Resubmit at _Journal of the European Economic Association_      
 
 (NEW!) **Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
 - [Draft](/files/Technology_Adoption.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6152727)    
 
 (NEW!) **Data Centers and Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)     
-- [Draft](/files/Pecuniary_Externality.pdf)     
+- [Draft](/files/Pecuniary_Externality.pdf), [SSRN](https://papers.ssrn.com/abstract=6157126)            
 
 (NEW!) **Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 - [Draft](/files/Procurement.pdf), [Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123), [SocArxiv](https://osf.io/preprints/socarxiv/vxej4_v1)     
