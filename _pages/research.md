@@ -31,7 +31,7 @@ permalink: /research/
 - [Draft](/files/Pecuniary_Externality.pdf), [SSRN](https://papers.ssrn.com/abstract=6157126)            
 
 (NEW!) **Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
-- [Draft](/files/Procurement.pdf), [Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123), [SocArxiv](https://osf.io/preprints/socarxiv/vxej4_v1)     
+- [Draft](/files/Procurement.pdf), [Slides](/files/Procurement_slides.pdf), [Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123), [SocArxiv](https://osf.io/preprints/socarxiv/vxej4_v1)     
 
 **Firm Wage Setting and On-the-Job Search Limit Wage-Price Spirals** (with Justin Bloesch and Jake Weber)    
 - [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
