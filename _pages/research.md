@@ -45,7 +45,6 @@ permalink: /research/
 
 **Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
 - [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
-- Reject and Resubmit at _European Economic Review_
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
 - [Draft](/files/Risk_Management.pdf), [NBER WP](https://www.nber.org/papers/w34211), [Slides](/files/Risk_Management_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197516)           
