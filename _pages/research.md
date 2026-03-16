@@ -36,8 +36,8 @@ permalink: /research/
 **Firm Wage Setting and On-the-Job Search Limit Wage-Price Spirals** (with Justin Bloesch and Jake Weber)    
 - [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
 - Revise and Resubmit at _American Economic Journal: Macroeconomics_
-- [An AD-AS Framework with Quits and Wage Inflation](/files/COL_ADAS.pdf)
-- [An Analytical Model](/files/COL_Twoperiods.pdf)
+- [An AD-AS Framework with Quits](/files/COL_ADAS.pdf)
+- [An Analytical Model](/files/COL_Twoperiod.pdf)
 
 
 **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
