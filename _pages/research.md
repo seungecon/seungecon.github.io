@@ -6,7 +6,7 @@ permalink: /research/
 ## Publication
 
 **Beliefs and the Net Worth Trap** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
-- [Draft](/files/Optimism.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125000791), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism)      
+- [Draft](/files/Optimism.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125000791), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism), [Media](https://www.theglobeandmail.com/investing/personal-finance/article-are-optimists-better-investors-maybe-not/?utm_medium=email&utm_source=On%20Money&utm_content=2026-3-17_19&utm_term=Are%20optimists%20better%20investors%3F%20Maybe%20not&utm_campaign=newsletter&cu_id=To20cxPCbntxId7xeHMJz7A0j53QMPnh)               
 - _Journal of Economic Theory_, Volume 227, June 2025           
 
 **Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
