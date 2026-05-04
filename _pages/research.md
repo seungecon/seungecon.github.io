@@ -25,7 +25,7 @@ permalink: /research/
 - Revise and Resubmit at _Journal of the European Economic Association_      
 
 (NEW!) **Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
-- [Draft](/files/Technology_Adoption.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6152727)    
+- [Draft](/files/Technology_Adoption.pdf), [Slides](/files/Technology_Adoption_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6152727)    
 
 (NEW!) **Data Centers and Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)     
 - [Draft](/files/Pecuniary_Externality.pdf), [SSRN](https://papers.ssrn.com/abstract=6157126)            
