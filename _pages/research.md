@@ -22,7 +22,7 @@ permalink: /research/
 
 (REVISED!) **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras)
 - [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)
-- Revise and Resubmit at _Journal of the European Economic Association_      
+- Revise and Resubmit at _Journal of the European Economic Association (2nd Round)_      
 
 (NEW!) **Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
 - [Draft](/files/Technology_Adoption.pdf), [Slides](/files/Technology_Adoption_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6152727)    
