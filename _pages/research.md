@@ -21,7 +21,7 @@ permalink: /research/
 ## Research Papers     
 
 (REVISED!) **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
-- [Draft](/files/Term_Structure.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
+- [Draft](/files/Term_Structure.pdf), [Slides](/files/term_structure_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
 - Revise and Resubmit at _The Economic Journal_
 
 
