@@ -3,50 +3,57 @@ title: "Research"
 permalink: /research/
 ---
 
-## Publication
-
-**Beliefs and the Net Worth Trap** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
-- [Draft](/files/Optimism.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125000791), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism), [Media](https://www.theglobeandmail.com/investing/personal-finance/article-are-optimists-better-investors-maybe-not/?utm_medium=email&utm_source=On%20Money&utm_content=2026-3-17_19&utm_term=Are%20optimists%20better%20investors%3F%20Maybe%20not&utm_campaign=newsletter&cu_id=To20cxPCbntxId7xeHMJz7A0j53QMPnh)               
-- _Journal of Economic Theory_, Volume 227, June 2025           
+## Macro-Monetary
 
 **Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
 - [Draft](/files/Higher_order_forward_guidance.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125001541?via%3Dihub), [Slides](/files/HOFG_slides_RANK.pdf), [TANK Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631), [CESifo Working Paper](/files/HOFG_ceisfo.pdf)    
 - _Journal of Economic Theory_, Volume 231, January 2026
 
+(REVISED!) **Firm Wage Setting, On-the-Job Search, and the Inflationary Effects of Supply Shocks** (with Justin Bloesch and Jake Weber)    
+- [Draft](/files/COL.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
+- Revise and Resubmit at _American Economic Journal: Macroeconomics_
+
+(REVISED!) **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
+- [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_structure_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)      
+- Revise and Resubmit at _The Economic Journal_
+
+**Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras)
+- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453).    
+- Revise and Resubmit at _Journal of the European Economic Association_ (2nd Round)      
+
+**How to Shrink a Central Bank: The Optimal Pace of Quantitative Tightening** (with Chris Hyland)    
+- [Draft](/files/QT_paper.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7207778)      
+
+**Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
+- [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217)       
+
+
+## Macro-Finance
+
+**Beliefs and the Net Worth Trap** (with Goutham Gopalakrishna and Theofanis Papamichalis)    
+- [Draft](/files/Optimism.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125000791), [Slides](/files/Optimism_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932647), [Summary](https://www-2.rotman.utoronto.ca/insightshub/finance-investing-accounting/investor-optimism), [Media](https://www.theglobeandmail.com/investing/personal-finance/article-are-optimists-better-investors-maybe-not/?utm_medium=email&utm_source=On%20Money&utm_content=2026-3-17_19&utm_term=Are%20optimists%20better%20investors%3F%20Maybe%20not&utm_campaign=newsletter&cu_id=To20cxPCbntxId7xeHMJz7A0j53QMPnh)               
+- _Journal of Economic Theory_, Volume 227, June 2025           
+
 **The Spatial Transmission of U.S. Banking Panics: Evidence from 1870-1929** (with Marc Dordal i Carreras)      
 - [Draft](/files/Panic.pdf), [Published Version](https://onlinelibrary.wiley.com/doi/10.1111/obes.70007), [Slides](/files/Panic_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149393)    
 - _Oxford Bulletin of Economics and Statistics_, Volume 88, Issue 1, February 2026
 
-
-## Research Papers     
-
-(REVISED!) **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
-- [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_structure_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)    
-- Revise and Resubmit at _The Economic Journal_
-
-
-(REVISED!) **Self-fulfilling Volatility and a New Monetary Policy (Job Market Paper)** (with Marc Dordal i Carreras)
-- [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453)
-- Revise and Resubmit at _Journal of the European Economic Association_ (2nd Round)      
-
-(NEW!) **Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
-- [Draft](/files/Technology_Adoption.pdf), [Slides](/files/Technology_Adoption_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6152727)    
-
-(NEW!) **Data Centers and Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)     
+**Data Centers and Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)     
 - [Draft](/files/Pecuniary_Externality.pdf), [SSRN](https://papers.ssrn.com/abstract=6157126)            
 
-(NEW!) **Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
+
+
+## Growth-Technology-Development     
+
+**Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
+- [Draft](/files/Technology_Adoption.pdf), [Slides](/files/Technology_Adoption_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6152727)    
+
+**Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 - [Draft](/files/Procurement.pdf), [Slides](/files/Procurement_slides.pdf), [Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123), [SocArxiv](https://osf.io/preprints/socarxiv/vxej4_v1)     
 
-**Firm Wage Setting and On-the-Job Search Limit Wage-Price Spirals** (with Justin Bloesch and Jake Weber)    
-- [Draft](/files/COL.pdf), [Slides](/files/COL_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)      
-- Revise and Resubmit at _American Economic Journal: Macroeconomics_
-- [An AD-AS Framework with Quits](/files/COL_ADAS.pdf)
-- [An Analytical Model](/files/COL_Twoperiod.pdf)
 
 
-**Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
-- [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217) (Submitted)   
+## Contracting    
 
 **Managerial Incentives, Financial Innovation, and Risk-Management Policies** (with Son Ku Kim and Sheridan Titman)      
 - [Draft](/files/Risk_Management.pdf), [NBER WP](https://www.nber.org/papers/w34211), [Slides](/files/Risk_Management_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197516)           
@@ -61,10 +68,6 @@ permalink: /research/
 
 ## Work in Progress
 
-**Sentiment in Intermediated Asset Classes** (with Goutham Gopalakrishna and Yulong Peng)  
-
-
 **Re-estimating r-star with rp-star** (with Marc Dordal i Carreras and Runhuan Wang)     
-
 
 **Risky Growth with Short-Term Debt** (with Artur Doshchyn)  
