@@ -10,8 +10,7 @@ permalink: /research/
 - _Journal of Economic Theory_, Volume 231, January 2026
 
 (REVISED!) **Firm Wage Setting, On-the-Job Search, and the Inflationary Effects of Supply Shocks** (with Justin Bloesch and Jake Weber)    
-- [Draft](/files/COL.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451)
-- [AD-AS framework](/files/COL_ADAS.pdf)     
+- [Draft](/files/COL.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451), [AD-AS framework](/files/COL_ADAS.pdf)     
 - Revise and Resubmit at _American Economic Journal: Macroeconomics_
 
 (REVISED!) **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
