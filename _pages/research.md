@@ -27,6 +27,8 @@ permalink: /research/
 **Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
 - [Draft](/files/ADAS_Theory.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217)       
 
+<br>
+<br>
 
 ## Macro-Finance
 
@@ -41,6 +43,8 @@ permalink: /research/
 **Data Centers and Electricity Bills: Pecuniary Externality?** (with Martin Schmalz)     
 - [Draft](/files/Pecuniary_Externality.pdf), [SSRN](https://papers.ssrn.com/abstract=6157126)            
 
+<br>
+<br>
 
 
 ## Growth-Technology-Development     
@@ -52,6 +56,8 @@ permalink: /research/
 - [Draft](/files/Procurement.pdf), [Slides](/files/Procurement_slides.pdf), [Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123), [SocArxiv](https://osf.io/preprints/socarxiv/vxej4_v1)     
 
 
+<br>
+<br>
 
 ## Contracting    
 
@@ -64,6 +70,8 @@ permalink: /research/
 **Ignorance is Bliss: Ex-Ante vs. Ex-Post Information Systems in an Agency Model** (with Jin Yong Jung and Son Ku Kim)      
 - [Draft](/files/Ex_Post_vs_Ex_Ante.pdf), [Slides](/files/Ex_Post_vs_Ex_Ante_slides.pdf)    
 
+<br>
+<br>
 
 
 ## Work in Progress
