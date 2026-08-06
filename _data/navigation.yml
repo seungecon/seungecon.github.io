@@ -6,6 +6,9 @@ main:
   - title: "Discussion"
     url: /discussion/    
 
+  - title: "Columns"
+    url: /columns/
+    
   #- title: "Teaching"
   #  url: /teaching/    
     
