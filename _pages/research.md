@@ -21,7 +21,7 @@ permalink: /research/
 - [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/Self-fulfilling_volatility_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453).    
 - Revise and Resubmit at _Journal of the European Economic Association_ (2nd Round)      
 
-**How to Shrink a Central Bank: The Optimal Pace of Quantitative Tightening** (with Chris Hyland)    
+(NEW!) **How to Shrink a Central Bank: The Optimal Pace of Quantitative Tightening** (with Chris Hyland)    
 - [Draft](/files/QT_paper.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7207778)      
 
 **Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
