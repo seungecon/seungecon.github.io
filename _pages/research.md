@@ -50,7 +50,7 @@ permalink: /research/
 ## Growth-Technology-Development     
 
 (Revised!) **Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
-- [Draft](/files/Procurement.pdf), [Slides](/files/Procurement_slides.pdf), [Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123), [SocArxiv](https://osf.io/preprints/socarxiv/vxej4_v1)     
+- [Draft](/files/Procurement.pdf), [Old Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123)   
 - Submitted to ISoT (2nd Edition) Special Issue of _Journal of International Economics_.              
 
 **Endogenous Technology Adoption in a Search Economy** (with Mingze Ma)     
