@@ -49,7 +49,7 @@ permalink: /research/
 
 ## Growth-Technology-Development     
 
-(Revised!) **Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
+(REVISED!) **Geopolitics and Export Miracles: Firm-Level Evidence from U.S. War Procurement in Korea** (with Philipp Barteska, Oliver Kim, and Nathan Lane)     
 - [Draft](/files/Procurement.pdf), [Old Thread](https://x.com/oliverwkim/status/1985465392786227241), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5727123)   
 - Submitted to ISoT (2nd Edition) Special Issue of _Journal of International Economics_.              
 
