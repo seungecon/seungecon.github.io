@@ -13,7 +13,9 @@ redirect_from:
 
 
 
-I am a tenure-track associate professor of finance at Saïd Business School, Oxford University. I work in macroeconomics, finance, and theory, and have a broad interest in geopolitics and geoeconomics. I occasionally write about geopolitics and global macro for the [Oxford Analytica Daily Brief](https://www.dowjones.com/business-intelligence/risk/products/oxford-analytica-daily-brief/). 
+I am a tenure-track associate professor of finance at Saïd Business School, Oxford University. I work in macroeconomics, finance, and theory, and have a broad interest in geopolitics and geoeconomics. 
+
+I occasionally write about geopolitics and global macro for the [Oxford Analytica Daily Brief](https://www.dowjones.com/business-intelligence/risk/products/oxford-analytica-daily-brief/). 
 
 -----
 
