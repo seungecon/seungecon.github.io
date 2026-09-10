@@ -20,6 +20,8 @@ permalink: /discussion/
 **Optimal Communication in Banking Supervision** (by Jeong Ho (John) Kim, Kyungmin Kim, Victoria Liu, and Noam Tanner)           
 - [Slides](/files/CAFM_2024.pdf) (CAFM 2024 Seoul)     
 
+<br>
+<br>
 
 ## Other Lectures
 
