@@ -7,6 +7,8 @@ permalink: /columns/
 
 [Labour markets will avoid a wage-price spiral](/files/OA_Spirals.pdf)
 
+<br>
+<br>
 
 ## 한국어 칼럼/인터뷰
 
