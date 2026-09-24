@@ -5,6 +5,10 @@ permalink: /discussion/
 
 ## Discussion Slides
 
+
+**Waiting to Hire and Unemployment Crises** (by Anastasiia Antonova, Edouard Challe, and Mykhailo Matvieiev)       
+- [Slides](/files/waiting_to_hire_discussion.pdf) (2026 Oxford / NY Fed / Bank of England Monetary Economics Conference)
+
 **Taxing Sudden Capital Income Surges** (by Wei Cui and Jianjun Miao)       
 - [Slides](/files/CESifo2025_discussion.pdf) (CESifo Area Conference on Macro, Money, and International Finance 2025)
 
