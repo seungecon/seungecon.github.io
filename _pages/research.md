@@ -9,9 +9,9 @@ permalink: /research/
 - [Draft](/files/Higher_order_forward_guidance.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125001541?via%3Dihub), [Slides](/files/HOFG_slides_RANK.pdf), [TANK Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631), [CESifo Working Paper](/files/HOFG_ceisfo.pdf)    
 - _Journal of Economic Theory_, Volume 231, January 2026
 
-(REVISED!) **Self-fulfilling Volatility, Taylor Rules, and Equilibrium Selection (Job Market Paper)** (with Marc Dordal i Carreras)
+**Self-fulfilling Volatility, Taylor Rules, and Equilibrium Selection (Job Market Paper)** (with Marc Dordal i Carreras)
 - [Draft](/files/Self-fulfilling_volatility.pdf), [Slides](/files/slides_KAIST.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461453).    
-- Revise and Resubmit at _Journal of the European Economic Association_ (2nd Round)      
+- Conditionally Accepted at _Journal of the European Economic Association_       
 
 (REVISED!) **Firm Wage Setting, On-the-Job Search, and the Inflationary Effects of Supply Shocks** (with Justin Bloesch and Jake Weber)    
 - [Draft](/files/COL.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451), [AD-AS framework](/files/COL_ADAS.pdf)     
