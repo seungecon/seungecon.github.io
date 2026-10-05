@@ -17,9 +17,8 @@ permalink: /research/
 - [Draft](/files/COL.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451), [AD-AS framework](/files/COL_ADAS.pdf)     
 - Revise and Resubmit at _American Economic Journal: Macroeconomics_
 
-(REVISED!) **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
+**Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
 - [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_structure_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)      
-- Revise and Resubmit at _The Economic Journal_
 
 (NEW!) **How to Shrink a Central Bank: The Optimal Pace of Quantitative Tightening** (with Chris Hyland)    
 - [Draft](/files/QT_paper.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7207778)      
