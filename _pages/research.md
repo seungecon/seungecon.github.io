@@ -6,7 +6,7 @@ permalink: /research/
 ## Macro-Monetary
 
 **Higher-Order Forward Guidance** (with Marc Dordal i Carreras)    
-- [Draft](/files/Higher_order_forward_guidance.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125001541?via%3Dihub), [Slides](/files/HOFG_slides_RANK.pdf), [TANK Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631), [CESifo Working Paper](/files/HOFG_ceisfo.pdf)    
+- [Draft](/files/Higher_order_forward_guidance.pdf), [Published Version](https://www.sciencedirect.com/science/article/pii/S0022053125001541?via%3Dihub), [Slides](/files/HOFG_slides_RANK.pdf), [TANK Slides](/files/HOFG_slides_short.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734631), [CESifo Working Paper (Old Version)](/files/HOFG_ceisfo.pdf)    
 - _Journal of Economic Theory_, Volume 231, January 2026
 
 **Self-fulfilling Volatility, Taylor Rules, and Equilibrium Selection (Job Market Paper)** (with Marc Dordal i Carreras)
