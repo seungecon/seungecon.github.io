@@ -29,6 +29,10 @@ permalink: /discussion/
 
 ## Other Lectures
 
+**Geopolitics + Economic Development**        
+- [Slides](/files/Geopolitics_economy.pdf) (Green Templeton College, Oxford)        
+
+
 **A Global Approach to New Keynesian Macroeconomics**        
-- [Slides](/files/KU_lecture_global.pdf) (at Korea University)        
+- [Slides](/files/KU_lecture_global.pdf) (Korea University)        
 
