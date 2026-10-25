@@ -17,10 +17,13 @@ permalink: /research/
 - [Draft](/files/COL.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451), [AD-AS framework](/files/COL_ADAS.pdf)     
 - Revise and Resubmit at _American Economic Journal: Macroeconomics_
 
+(NEW!) **Global Solutions to a New Keynesian Model** (with Marc Dordal i Carreras)    
+- [Draft](/files/GlobalNK.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670398)      
+
 **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
 - [Draft](/files/Term_Structure.pdf), [Slides](/files/Term_structure_slides.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734622)      
 
-(NEW!) **How to Shrink a Central Bank: The Optimal Pace of Quantitative Tightening** (with Chris Hyland)    
+**How to Shrink a Central Bank: The Optimal Pace of Quantitative Tightening** (with Chris Hyland)    
 - [Draft](/files/QT_paper.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7207778)      
 
 **Endogenous Firm Entry and the Monetary Policy ‘Room’** (with Marc Dordal i Carreras and Zhenghua Qi)    
