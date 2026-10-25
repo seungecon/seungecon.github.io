@@ -34,5 +34,5 @@ permalink: /discussion/
 
 
 **A Global Approach to New Keynesian Macroeconomics**        
-- [Slides](/files/KU_lecture_global.pdf) (Korea University)        
+- [Slides](/files/KU_lecture_global.pdf) (Korea University, Economics Department)        
 
