@@ -17,7 +17,7 @@ permalink: /research/
 - [Draft](/files/COL.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734451), [AD-AS framework](/files/COL_ADAS.pdf)     
 - Revise and Resubmit at _American Economic Journal: Macroeconomics_
 
-(NEW!) **Global Solutions to a New Keynesian Model** (with Marc Dordal i Carreras)    
+(NEW!) **No Doing Without Money: Global Indeterminacy and Equilibrium Selection in the New Keynesian Model** (with Marc Dordal i Carreras)    
 - [Draft](/files/GlobalNK.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670398)      
 
 **Yield-Curve Control Policy under Inelastic Financial Markets** (with Marc Dordal i Carreras)    
